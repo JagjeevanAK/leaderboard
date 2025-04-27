@@ -1,0 +1,60 @@
+const { execSync } = require("child_process");
+const fs = require("fs");
+const path = require("path");
+
+try {
+  const dotenv = require("dotenv");
+  // load .env.local first, then fallback to .env
+  dotenv.config({ path: ".env.local" });
+  dotenv.config();
+} catch (error) {
+  console.error("No .env or .env.local file found");
+}
+
+const DATA_SOURCE = process.env.NEXT_PUBLIC_DATA_SOURCE || process.env.DATA_SOURCE || null;
+if (!DATA_SOURCE) {
+  console.error("Please provide DATA_SOURCE or NEXT_PUBLIC_DATA_SOURCE environment variable");
+  process.exit(1);
+}
+const cwd = process.cwd();
+const dataRepoPath = path.join(cwd, "data-repo");
+
+function executeCommand(command, workingDir = cwd) {
+  try {
+    const result = execSync(command, { cwd: workingDir, stdio: "inherit" });
+    return result;
+  } catch (error) {
+    console.error(`Error executing command: ${command}`, error);
+  }
+}
+
+if (fs.existsSync(path.join(dataRepoPath, ".git"))) {
+  console.log("Updating existing data repository...");
+  // ensure upstream remote points to current DATA_SOURCE
+  executeCommand(`git remote set-url upstream ${DATA_SOURCE}`, dataRepoPath);
+  const remotes = executeCommand("git remote -v", dataRepoPath);
+  if (remotes && remotes.includes("upstream")) {
+    executeCommand("git clean -df", dataRepoPath);
+    executeCommand("git fetch upstream", dataRepoPath);
+    executeCommand("git checkout --force main", dataRepoPath);
+    executeCommand("git reset --hard main", dataRepoPath);
+    executeCommand("git pull upstream main", dataRepoPath);
+  }
+} else {
+  console.log("Cloning data repository for the first time...");
+
+  fs.rmSync(dataRepoPath, { recursive: true, force: true });
+  executeCommand(`git clone --depth=1 ${DATA_SOURCE} ${dataRepoPath}`);
+  executeCommand("git remote add upstream " + DATA_SOURCE, dataRepoPath);
+  executeCommand("git remote remove origin", dataRepoPath);
+  executeCommand("git pull upstream main", dataRepoPath);
+}
+
+if (fs.existsSync(path.join(dataRepoPath, "config/assets"))) {
+  console.log("Copying assets to public folder...");
+  fs.cpSync(
+    path.join(dataRepoPath, "config/assets"),
+    path.join(cwd, "public"),
+    { recursive: true },
+  );
+}
