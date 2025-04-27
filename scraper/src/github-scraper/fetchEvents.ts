@@ -11,10 +11,10 @@ const AllowedEventTypes = [
   "PullRequestReviewEvent",
 ];
 
-export const fetchEvents = async (org: string) => {
+export const fetchEvents = async () => {
   const events = await octokit.paginate(
     "GET /orgs/{org}/events",
-    { org, per_page: 100 },
+    { org: "openfoodfacts", per_page: 100 },
     (response) => {
       const filtered = response.data.filter((event) => {
         if (!event.type) {

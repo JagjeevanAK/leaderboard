@@ -11,7 +11,7 @@ let processedData: ProcessData = {};
 
 const scrapeGitHub = async (org: string): Promise<void> => {
   console.log(`Scraping GitHub data for: '${org}'`);
-  const events = await fetchEvents(org);
+  const events = await fetchEvents();
   processedData = await parseEvents(events as IGitHubEvent[]);
   for (const user of Object.keys(processedData)) {
     if (!processedData[user]) {
