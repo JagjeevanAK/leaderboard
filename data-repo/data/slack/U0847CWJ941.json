@@ -1,0 +1,1747 @@
+{
+    "2025-02-25 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1740487218.952439",
+            "client_msg_id": "039a223b-df14-4dd5-9d35-7f36f263debc",
+            "text": "24 Feb 2025\n\u2022 Complete few modules of Django for all course \n\u2022 Worked on the assigned issue (related to questionare page) and there were few reviews, so resolved that\nNext\n\u2022 There was another issue related to overlapping of scrollbar so worked on that.\n\u2022 Looking for new issues/tasks",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "dYv5k",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24 Feb 2025\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete few modules of Django for all course "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the assigned issue (related to questionare page) and there were few reviews, so resolved that"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "There was another issue related to overlapping of scrollbar so worked on that."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues/tasks"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-26 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1740547323.513259",
+            "client_msg_id": "3a6e7e58-fa79-482c-a670-0a99ff817efe",
+            "text": "25 Feb 2025\nDone\n\u2022 Watched some tutorials of React\n\u2022 Fixed the Overapping of horizontal scrollbar with tabbar raised the PR for the same.\nNext\n\u2022 Planning to raise an issue related to Ref Forwarding Error\n\u2022 Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sBnDV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Feb 2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Watched some tutorials of React"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed the Overapping of horizontal scrollbar with tabbar raised the PR for the same."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Planning to raise an issue related to Ref Forwarding Error"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-28 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1740710310.449889",
+            "client_msg_id": "1465d1a5-4a15-4dad-a471-d47000a84802",
+            "text": "26 February &amp; 27 February \nDone \n\u2022 Raised an issue regarding react error when a user tries to edit profile.\n\u2022 So I tried to figure out but still I couldn't find a solution.\nNext\n\u2022 Complete the assigned issue as soon as possible.\n\u2022 Look for new issues.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3XVpL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26 February & 27 February \nDone \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised an issue regarding react error when a user tries to edit profile."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "So I tried to figure out but still I couldn't find a solution."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete the assigned issue as soon as possible."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look for new issues."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-02 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1740918451.281289",
+            "client_msg_id": "c7a869bb-1f99-4109-a71c-9c1638b2bda7",
+            "text": "28 Feb and Mar 1\n\u2022 Couldn't work due to a hackathon conducted in college.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2r72E",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28 Feb and Mar 1\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Couldn't work due to a hackathon conducted in college."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-03-04 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741074125.800439",
+            "edited": {
+                "user": "U0847CWJ941",
+                "ts": "1741074137.000000"
+            },
+            "client_msg_id": "6019ceeb-57b8-4d3b-a24a-4f237a44cfd9",
+            "text": "March 3\nWork Done: \n\u2022 Solved the \"functional ref not found\" error. This was resolved by ensuring that the referenced function was properly initialized and accessible within the component and raised PR for the same.\n\u2022 Raised another issue related to Console error while adding schedule exception\nNext:\n\u2022 Solve the assigned issue (console error while adding schedule exception)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wxlxa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 3\nWork Done: \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solved the \"functional ref not found\" error. This was resolved by ensuring that the referenced function was properly initialized and accessible within the component and raised PR for the same."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised another issue related to Console error while adding schedule exception"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solve the assigned issue (console error while adding schedule exception)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-05 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741197114.289449",
+            "client_msg_id": "0211f5ee-3eb1-4619-9abc-610ef248c962",
+            "text": "March 5\n\nWork Done:\n\u2022 Fixed the controller problem in add exception page by adding default values yo start time and end time  raised draft PR. There are similar issues in another pages also so need to find and make changes.\n\u2022 Issue related to functional refs not found, was noticed in Add Patient and Add schedule.\n\u2022 Got Assigned to the issue related to Mobile responsiveness in Encounter and Patient Detail Page\nNext:\n\u2022 Fix the mobile responsiveness in Encounter Page.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qGd7i",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 5\n\nWork Done:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed the controller problem in add exception page by adding default values yo start time and end time  raised draft PR. There are similar issues in another pages also so need to find and make changes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Issue related to functional refs not found, was noticed in Add Patient and Add schedule."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got Assigned to the issue related to Mobile responsiveness in Encounter and Patient Detail Page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix the mobile responsiveness in Encounter Page."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741159963.255709",
+            "client_msg_id": "b73efae5-9dca-4347-b870-aa390c33a2f8",
+            "text": "4 March 2025\n\u2022 Tried to solve the issue related to adding schedule exception but couldn't solve.\n\u2022 Also got some Reviews in the last pr to find more places where there is form control error.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WmZ5y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4 March 2025\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to solve the issue related to adding schedule exception but couldn't solve."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Also got some Reviews in the last pr to find more places where there is form control error."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-08 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741462858.824179",
+            "client_msg_id": "c63b28df-e12d-4cc3-b712-e5b1534f51ac",
+            "text": "8th March 2025\n\nDone:\n\u2022 Fixed some errors in Patient Registration Form. Errors where functional refs not found, Controller errors and also there where some issues with default values for some fields.\nPlanned: \n- Fix these errors in other pages also(Facility,Location).",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6RE6z",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "8th March 2025\n\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed some errors in Patient Registration Form. Errors where functional refs not found, Controller errors and also there where some issues with default values for some fields."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nPlanned: \n- Fix these errors in other pages also(Facility,Location)."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741442170.694049",
+            "edited": {
+                "user": "U0847CWJ941",
+                "ts": "1741442243.000000"
+            },
+            "client_msg_id": "5aa2198f-d7b0-419c-88ac-ade781e9d471",
+            "text": "March 6th & 7th:\nDone:\n\u2022 Fixed function ref not found error in Add Patient, need tol fix in other pages, Was not able to much due to college programs.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zAAez",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 6th & 7th:\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed function ref not found error in Add Patient, need tol fix in other pages, Was not able to much due to college programs."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-11 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741725085.308919",
+            "edited": {
+                "user": "U0847CWJ941",
+                "ts": "1741725104.000000"
+            },
+            "client_msg_id": "def9cdb8-c2d9-4bee-b05f-8e2aaf37f7d7",
+            "text": "10,11 March\n\u2022 Fixed validateDOMNesting(...) error by replacing <p> with <div> and converting HtmlparagraphElement to HtmlDivElement.\n\u2022 Used React.forwardRef() for ForwardedSelect instead of Select to handle refs properly.\n\u2022 Converted controlled inputs to uncontrolled by setting default values in PatientRegistration.tsx.\n\u2022 Got Assigned to two issues one related to loading in mobile view and other is add a scrollbar to facility features.\n\u2022 Solved the loading issue by adding the scolling logic to AppRouter.tsx and raised the pr.\nPlanned:\n\u2022 Add scrollbar to facility features dropdown.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UmzM5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10,11 March\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed validateDOMNesting(...) error by replacing <p> with <div> and converting HtmlparagraphElement to HtmlDivElement."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Used React.forwardRef() for ForwardedSelect instead of Select to handle refs properly."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Converted controlled inputs to uncontrolled by setting default values in PatientRegistration.tsx."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got Assigned to two issues one related to loading in mobile view and other is add a scrollbar to facility features."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solved the loading issue by adding the scolling logic to AppRouter.tsx and raised the pr."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nPlanned:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Add scrollbar to facility features dropdown."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U0576PEACG0"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-03-12 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741804227.842489",
+            "client_msg_id": "f10286a7-7ef8-4987-9400-32bce3dc54f2",
+            "text": "March 12\n\nDone:\n\u2022 Got assigned to issue related to loading of page in Mobilr View. Solved it by using by adding a logic to load in App router and raised the PR.\n\u2022 Solved another issue realted to scrolling problem in the facility dropdown in add facility form and raised the PR. \n\u2022 Fixed uncontroll to controll errors in facility by adding ddfault values and now i need to solve the same isssue in add device form.\nPlanned:\n\u2022 Solve the errors in add device and give the PR for reviewing.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UnYDf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 12\n\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned to issue related to loading of page in Mobilr View. Solved it by using by adding a logic to load in App router and raised the PR."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solved another issue realted to scrolling problem in the facility dropdown in add facility form and raised the PR. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed uncontroll to controll errors in facility by adding ddfault values and now i need to solve the same isssue in add device form."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nPlanned:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solve the errors in add device and give the PR for reviewing."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-13 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741889021.932929",
+            "client_msg_id": "87893b46-c730-4a18-ae06-261e41513826",
+            "text": "12- 13th March\n\u2022 Got assigned to issue related to loading of page in Mobilr View. Solved it by using by adding a logic to load in App router and raised the PR.\n\u2022 Solved another issue realted to scrolling problem in the facility dropdown in add facility form and raised the PR.\n\u2022 Fixed uncontroll to controll errors in facility by adding ddfault values and now i need to solve the same isssue in add device form.\nNext\n\u2022 Need to check if there are more fomrfiled errors if exists then solve them.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QqjUN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12- 13th March\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned to issue related to loading of page in Mobilr View. Solved it by using by adding a logic to load in App router and raised the PR."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solved another issue realted to scrolling problem in the facility dropdown in add facility form and raised the PR."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed uncontroll to controll errors in facility by adding ddfault values and now i need to solve the same isssue in add device form."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Need to check if there are more fomrfiled errors if exists then solve them."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-19 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1742392897.795489",
+            "client_msg_id": "836c1eaf-ceeb-4463-b663-c8834d3f327b",
+            "text": "March 17 &amp; 18\nDone:\n\u2022 Tried to find another logic for scrolling problem in mobile view  but couldn't find \n\u2022 Raised another issue in location form react component key warning \n\u2022 Solved the functional refs not found error in device form",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WFTcE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 17 & 18\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to find another logic for scrolling problem in mobile view  but couldn't find "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised another issue in location form react component key warning "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solved the functional refs not found error in device form"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-03-21 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1742588188.389329",
+            "client_msg_id": "f9bb731f-8396-4c91-adf3-e054eb23cf14",
+            "text": "March 21:\n\u2022 Fixed all Uncontolled to Controll erros , functions refs error, forward refs erros and updated the draft PR\n\u2022 Ficxed the react component key warning for li component for location page\nNext:\n\u2022 Search for new issues and work on that .",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OF5He",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 21:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed all Uncontolled to Controll erros , functions refs error, forward refs erros and updated the draft PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ficxed the react component key warning for li component for location page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Search for new issues and work on that ."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1742553484.497529",
+            "edited": {
+                "user": "U0847CWJ941",
+                "ts": "1742553523.000000"
+            },
+            "client_msg_id": "b1db28aa-2f81-4e54-919f-ad0336845322",
+            "text": "March 19 & 20:\n\u2022 Fixed the scrolling nd laoding issue in mobile. Now it is fine it loads to the top and updated the pr\n\u2022 Got assigned to the issue regarding key component missing react error.\n\u2022 Tried to fix the above error but couldn't fix it.\nNext:\n\u2022 Fix the assigned issue and raise the Pr",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "APYhy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 19 & 20:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed the scrolling nd laoding issue in mobile. Now it is fine it loads to the top and updated the pr"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned to the issue regarding key component missing react error."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to fix the above error but couldn't fix it."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix the assigned issue and raise the Pr"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-23 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1742709825.529379",
+            "client_msg_id": "0597b248-8991-4a76-9dfe-2f4d99f39630",
+            "text": "March 22:\nDone:\n\u2022 Searched for some issues and found some conflicts in the last PR, so I resolved them.\nNext:\n\u2022 I will be on leave this week as my midsems are starting.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "RXU1j",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 22:\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Searched for some issues and found some conflicts in the last PR, so I resolved them."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "I will be on leave this week as my midsems are starting."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-04-03 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1743705782.791969",
+            "client_msg_id": "dfb5c783-f3d7-4b80-a174-e57b60e4fab5",
+            "text": "3rd April 2025\n\nDone:\n\u2022 Opened an issue regarding mising details in request letter and found the way to solve. Waiting for it to assign.\n\u2022 Opened another issue regarding cover photo upload error which is not that good.\nNext\n\u2022 Looking for new issues.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JDt/4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3rd April 2025\n\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened an issue regarding mising details in request letter and found the way to solve. Waiting for it to assign."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened another issue regarding cover photo upload error which is not that good."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-04-05 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1743880151.172919",
+            "client_msg_id": "f971463e-9145-499f-b7bf-270928ff6350",
+            "text": "April 4 and april 5\n\u2022 Tried to find issues but didn't get any...\nNext\n\u2022 Search for issues if anything is there please assign me .",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KQd4E",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "April 4 and april 5\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to find issues but didn't get any..."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Search for issues if anything is there please assign me ."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "people_hugging",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-04-09 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1744177601.103789",
+            "client_msg_id": "6e9174d5-dfd5-4cb2-89e8-be2f1c4bf68f",
+            "text": "April 7 and 8\n\u2022 Got assigned to a issue regarding scrolling issue while using pagination\n\u2022 Working in the assigned issue, still trying to figure out the good solution to this problem.\nNext:\n\u2022 Will fix this issue today itself.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "D7JNr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "April 7 and 8\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned to a issue regarding scrolling issue while using pagination"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working in the assigned issue, still trying to figure out the good solution to this problem."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Will fix this issue today itself."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-04-11 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1744350387.167769",
+            "client_msg_id": "2ee8b603-6118-444c-8088-d1fc64d2acb3",
+            "text": "April 9 and 10\n\n\u2022 Fixed the scrolling issue by updating the scrolling logic in pagination itself\n\u2022 Raised the PR for the same\nNext\n\u2022 Looking for new issues.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "aFqk1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "April 9 and 10\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed the scrolling issue by updating the scrolling logic in pagination itself"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised the PR for the same"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-04-18 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1744943928.350009",
+            "client_msg_id": "308bc3c2-6481-4564-986a-8b470c8e3e07",
+            "text": "17 18 April \nDone \n\u2022 Completed the issue (comment box blocked by input area in notes tab)\n\u2022 Got assigned to the issues in tele icu and working on that need to fix by end of day \nPlanned \n\u2022 Complete all assigned issues by today.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iy9K0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 18 April \nDone \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Completed the issue (comment box blocked by input area in notes tab)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned to the issues in tele icu and working on that need to fix by end of day "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nPlanned \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete all assigned issues by today."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-04-22 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1745304813.158289",
+            "client_msg_id": "8704668b-7beb-4771-9297-ef7a4006cab4",
+            "text": "21 April\n\u2022 Faced a error in setting up the tele_icu , so I was stuck in that.\n\u2022 Also working the changes for the issue comment box blocked by buttons in notes tab.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PMqce",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21 April\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Faced a error in setting up the tele_icu , so I was stuck in that."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Also working the changes for the issue comment box blocked by buttons in notes tab."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

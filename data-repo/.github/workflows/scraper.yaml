@@ -1,0 +1,22 @@
+name: Scrape Data
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 6:30am IST
+    - cron: "0 9 * * *" # 2:30pm IST
+    - cron: "0 17 * * *" # 10:30pm IST
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    uses: JagjeevanAK/leaderboard/.github/workflows/scraper.yaml@main
+    if: github.ref == 'refs/heads/main'
+    permissions:
+      issues: read
+      pull-requests: read
+      contents: write
+      repository-projects: read
+    secrets: inherit
+    with:
+      slack-eod-channel: ${{ vars.SLACK_EOD_CHANNEL }}
+      projects-board-id: PVT_kwDOA7JD8804yA

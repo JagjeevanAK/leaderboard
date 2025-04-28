@@ -1,0 +1,3691 @@
+{
+    "2024-10-29 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730224489.257649",
+            "client_msg_id": "59c794dc-3f95-4953-a747-aec94acaae6b",
+            "text": "29 Oct 2024\nDone:raised a pr after fixing test cases 8691\nNext:\n will start work on Duplicate review events captured #464",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iacxg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29 Oct 2024\nDone:raised a pr after fixing test cases 8691\nNext:\n will start work on Duplicate review events captured #464"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-27 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730048668.302299",
+            "client_msg_id": "1aa13e13-105c-4982-beb4-ee4113eb7f51",
+            "text": "27 Oct 2024\nDone:made required changes of issue 8691\nNext:\nwill start work on Duplicate review events captured #464 (assigned today)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rxixq",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "27 Oct 2024\nDone:made required changes of issue 8691\nNext:\nwill start work on Duplicate review events captured #464 (assigned today)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-26 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729882617.046959",
+            "client_msg_id": "536f09f2-3aa3-4bba-a8f1-fbfc3e310f2f",
+            "text": "25 Oct 2024\nDone:fixed failed test cases of issue 8691\nNext:\nwill start work on Duplicate review events captured #464 (assigned today)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nghr+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Oct 2024\nDone:fixed failed test cases of issue 8691\nNext:\nwill start work on Duplicate review events captured #464 (assigned today)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-24 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729786288.438419",
+            "client_msg_id": "95d57967-b3ba-4979-b1fa-783cfb144520",
+            "text": "24 Oct 2024\nDone:\nraised pr which solved issue 8691\nNext:\nwill start work on Duplicate review events captured #464 (assigned today)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1NOOQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24 Oct 2024\nDone:\nraised pr which solved issue 8691\nNext:\nwill start work on Duplicate review events captured #464 (assigned today)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-23 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729703825.241769",
+            "client_msg_id": "5893b442-a661-4182-be58-cb876620df62",
+            "text": "23 Oct 2024\nDone\n\n\u2022 made the changes and fixed the issues as per the requirements.\n\u2022 use custom type instead of using any in Tsx file, merge the develop branch resolving merge conflict\nNext\n\n\u2022 Looking few new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "R4Ku3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23 Oct 2024\nDone\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made the changes and fixed the issues as per the requirements."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "use custom type instead of using any in Tsx file, merge the develop branch resolving merge conflict"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking few new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-22 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729604054.113389",
+            "client_msg_id": "8e861caf-d200-4c5f-b5bc-705f83652ce4",
+            "text": "*22 Oct 2024*\nDone\n\n\u2022 Working on failed test cases of PR #8691\n\u2022 \n Next\n\n\u2022 searching for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "RPr3O",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22 Oct 2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nDone\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on failed test cases of PR #8691"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": []
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": " Next\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "searching for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-21 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729531294.316319",
+            "client_msg_id": "e1c8df95-99f5-42b6-848e-ba8990282408",
+            "text": "21 October:\nMaking some required changes ,fixing error comes from test on pr #8834",
+            "team": "TC99SV7B6",
+            "thread_ts": "1729531294.316319",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1729577068.589079",
+            "reply_users": [
+                "U02D0NA6RHR",
+                "U07RFG735CP"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+g16N",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21 October:\nMaking some required changes ,fixing error comes from test on pr #8834"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-20 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729430398.947959",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1729430534.000000"
+            },
+            "client_msg_id": "01b01a8a-d1db-435a-bcf4-b099435e48ac",
+            "text": "19th October \nDone: raised  cleand up and fix some typescript error and commit this in previous pr, now it's label \"need testing\"\n\nSearching for new issue.",
+            "team": "TC99SV7B6",
+            "thread_ts": "1729430398.947959",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1729435416.268269",
+            "reply_users": [
+                "U07RFG735CP"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YPcpu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19th October \nDone: raised  cleand up and fix some typescript error and commit this in previous pr, now it's label \"need testing\"\n\nSearching for new issue."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-19 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729345748.687019",
+            "client_msg_id": "c3d37685-dc47-4a5d-b097-bae1158493ef",
+            "text": "19 october : work <https://github.com/ohcnetwork/care_fe/tree/filter-component> merged this with my pr and working on it",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "TrF3y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19 october : work "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/tree/filter-component"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " merged this with my pr and working on it"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-18 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729257440.823769",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1729257454.000000"
+            },
+            "client_msg_id": "58df104b-a1d6-4cb2-813c-91dde0bd9142",
+            "text": "18 October\nworking on the  issue <https://github.com/ohcnetwork/care_fe/issues/8691>",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1727894284,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/8691",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8691 Add a better search UI for patients index page",
+                    "text": "In the current patient page, we have 4 independet search on patient, at any point in time you can only search by one practically.  \nHere is an how the current UI looks.  \n<https://private-user-images.githubusercontent.com/14979190/372989032-0971d608-73f8-491a-b8e9-859c14075cd6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNTc3NDEsIm5iZiI6MTcyOTI1NzQ0MSwicGF0aCI6Ii8xNDk3OTE5MC8zNzI5ODkwMzItMDk3MWQ2MDgtNzNmOC00OTFhLWI4ZTktODU5YzE0MDc1Y2Q2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE4VDEzMTcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmYTBhYjUzYjBkNjNhMTlmMzE2Mzc4NGI0MzA5OTBlNDE3OGEwZmQ4ZTE0ZmMzYjE3NDUyODBlOTA1ZmVjZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xWrzDIwYSBQN4JS6AImefjoIzTucYjFrziQnUyZF1hI|image>\n\nLet upgrade it with a smart search compoent where the user can select what to search for.  \n<https://private-user-images.githubusercontent.com/14979190/372989079-91099d34-5c4c-44fd-8da0-094265bbbacd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNTc3NDEsIm5iZiI6MTcyOTI1NzQ0MSwicGF0aCI6Ii8xNDk3OTE5MC8zNzI5ODkwNzktOTEwOTlkMzQtNWM0Yy00NGZkLThkYTAtMDk0MjY1YmJiYWNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE4VDEzMTcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5YzdhYmQxNWQ2NzMxYmMwY2I1Y2Q0NjAzMzE2NDk3ZjBiM2JhYzI5ODMyZDRmMjE4MWNhZmQ3NmE3ZDUyM2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.328wa5eXLvC0yEvdeJjiMLu1F2mooPDYt9tzm_6KWgw|image>\n\nIt should also support keyboard short cuts.  \n<https://private-user-images.githubusercontent.com/14979190/372989101-8830e0fd-8322-4544-9e64-dd86863b2f2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyNTc3NDEsIm5iZiI6MTcyOTI1NzQ0MSwicGF0aCI6Ii8xNDk3OTE5MC8zNzI5ODkxMDEtODgzMGUwZmQtODMyMi00NTQ0LTllNjQtZGQ4Njg2M2IyZjJiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE4VDEzMTcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2MWJkN2U0NjE2NzMwMzYyNTZhMDg1YmYzNzMxOTZiNjQzY2JjM2NkMzU5NGQ0NGQxM2IxNjMyZGNmZjQwYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UX1Fh94jdeunsLzSrsCLknAl7g-U4H26puuThcTJD_I|image>\n\nThe valid options would be Name | Phone Number | OP/IP number | Emergency Contact Number.\n\nAlso reduce the height of the count box to match the component.",
+                    "title": "#8691 Add a better search UI for patients index page",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/8691",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "hacktoberfest",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "f4SxN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18 October\nworking on the  issue "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/8691"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1729228851.454029",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1729228876.000000"
+            },
+            "client_msg_id": "ade97253-3df5-43de-84bf-684762ccc69d",
+            "text": "17 October 2024\n\nDone:\n solved this issue <https://github.com/ohcnetwork/care_fe/issues/8691>\n\nNext:   raised a pr",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1727894284,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/8691",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8691 Add a better search UI for patients index page",
+                    "text": "In the current patient page, we have 4 independet search on patient, at any point in time you can only search by one practically.  \nHere is an how the current UI looks.  \n<https://private-user-images.githubusercontent.com/14979190/372989032-0971d608-73f8-491a-b8e9-859c14075cd6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyMjkxNTIsIm5iZiI6MTcyOTIyODg1MiwicGF0aCI6Ii8xNDk3OTE5MC8zNzI5ODkwMzItMDk3MWQ2MDgtNzNmOC00OTFhLWI4ZTktODU5YzE0MDc1Y2Q2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE4VDA1MjA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzNzVmNzkzZWYxNTNmZjJlZjNkYjEzMmRlMDAyOTRhZmNiMWJiNzY1OThkMDIzODU0ZjIwOTYwNzhkNzY5ZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KtzDEYjxDTuL-djTtsDTdOdAvjarkK7oLWvKMggOk3c|image>\n\nLet upgrade it with a smart search compoent where the user can select what to search for.  \n<https://private-user-images.githubusercontent.com/14979190/372989079-91099d34-5c4c-44fd-8da0-094265bbbacd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyMjkxNTIsIm5iZiI6MTcyOTIyODg1MiwicGF0aCI6Ii8xNDk3OTE5MC8zNzI5ODkwNzktOTEwOTlkMzQtNWM0Yy00NGZkLThkYTAtMDk0MjY1YmJiYWNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE4VDA1MjA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMmIxMWNhM2VkZTliMmZhNjU3YTU3YWQ2NTM2OGE2NDY0MWNiNmI5YjdkMTZjZTNiOTIxOTk4OGJkN2QxNDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3PVVs2i9bu0JjzaYqZTFCMEUCiVPk3vSydphwcOGlYo|image>\n\nIt should also support keyboard short cuts.  \n<https://private-user-images.githubusercontent.com/14979190/372989101-8830e0fd-8322-4544-9e64-dd86863b2f2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyMjkxNTIsIm5iZiI6MTcyOTIyODg1MiwicGF0aCI6Ii8xNDk3OTE5MC8zNzI5ODkxMDEtODgzMGUwZmQtODMyMi00NTQ0LTllNjQtZGQ4Njg2M2IyZjJiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE4VDA1MjA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkZDdiODI5MGFkZDNlMGNmZjI1MzE3OWM1ZGMwYTIzMTU5NmRjYWU3ZGE5YmUxODRhODVlNjdhMGQ1MTdjZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SgMDV7Ni-PI5dUnokImEjsXStkACBl45MURNQXnkPqY|image>\n\nThe valid options would be Name | Phone Number | OP/IP number | Emergency Contact Number.\n\nAlso reduce the height of the count box to match the component.",
+                    "title": "#8691 Add a better search UI for patients index page",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/8691",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "hacktoberfest",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KUpDQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 October 2024\n\nDone:\n solved this issue "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/8691"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nNext:   raised a pr"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-17 00:00:00": [
+        {
+            "subtype": "channel_join",
+            "user": "U07RFG735CP",
+            "text": "<@U07RFG735CP> has joined the channel",
+            "inviter": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1729139666.253869"
+        }
+    ],
+    "2024-10-30 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730315808.592769",
+            "client_msg_id": "e7e1d0d2-9aa7-4722-b6b7-65b104fe5d82",
+            "text": "30 Oct 2024\nDone:fixing test cases 8691\nNext:\n\u2022 will start on this <https://github.com/ohcnetwork/care_fe/issues/6503>\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1698330840,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#6503 Show more monitors in CNS on very large displays",
+                    "text": "*Describe the bug*  \nWhen CNS is opened in large 4K displays, 75% of the screen space is wasted.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Visit <https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/cns|https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/cns> on a 4K display\n\n*Expected behavior*  \nOn large displays, render more vitals monitors into view per page.\n\n*Screenshots*\n\n<https://private-user-images.githubusercontent.com/25143503/278376732-98f9e3f9-7e20-42ce-a095-5abe841e88c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzMTYxMDksIm5iZiI6MTczMDMxNTgwOSwicGF0aCI6Ii8yNTE0MzUwMy8yNzgzNzY3MzItOThmOWUzZjktN2UyMC00MmNlLWEwOTUtNWFiZTg0MWU4OGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMwVDE5MTY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkZjg5ZmIxZTliYjNhOTE1NTIzZGY1YmFmZGFmMzM5OWU0OTllOGUyYjE3NDUyN2M4ZDgzMmJmNjk3Y2M3MmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vG25IhtYbmICDBMuFx1FyGUuQO7IalzC1RBoF4pWTtQ|image>",
+                    "title": "#6503 Show more monitors in CNS on very large displays",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "wishlist",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OT7TW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Oct 2024\nDone:fixing test cases 8691\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "will start on this "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/6503"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-01 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730485035.710179",
+            "client_msg_id": "e3ccf0f3-edd3-4422-8332-8ffa3300c9cc",
+            "text": "1 Nov 2024\nDone:fixing test cases 8691\nNext:\n\u2022 will start on this <https://github.com/ohcnetwork/care_fe/issues/6503>\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1698330840,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#6503 Show more monitors in CNS on very large displays",
+                    "text": "*Describe the bug*  \nWhen CNS is opened in large 4K displays, 75% of the screen space is wasted.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Visit <https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/cns|https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/cns> on a 4K display\n\n*Expected behavior*  \nOn large displays, render more vitals monitors into view per page.\n\n*Screenshots*\n\n<https://private-user-images.githubusercontent.com/25143503/278376732-98f9e3f9-7e20-42ce-a095-5abe841e88c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA0ODUzMzcsIm5iZiI6MTczMDQ4NTAzNywicGF0aCI6Ii8yNTE0MzUwMy8yNzgzNzY3MzItOThmOWUzZjktN2UyMC00MmNlLWEwOTUtNWFiZTg0MWU4OGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAxVDE4MTcxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkN2U4MjQ0ZjRiYTBlNjE2MzBjMTI1ODRjZDZlZjM0ZjIyMzk5ODNjMDIxY2E0NTk1MDk1ZGMwZjQ0ZjdhMjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DUOG2XcxkUkacv6kW9sPjlKI7zLIQF0xAjgcMnwIP_o|image>",
+                    "title": "#6503 Show more monitors in CNS on very large displays",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "wishlist",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cQFWT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "1 Nov 2024\nDone:fixing test cases 8691\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "will start on this "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/6503"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-02 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730571123.223679",
+            "client_msg_id": "06c0652c-edd9-4fe7-aef4-0d90fda98ed3",
+            "text": "2 nov\nDone:\nMade changes on Issue 8691 waiting for feedback \nWill work on:\n<https://github.com/ohcnetwork/care_fe/issues/6503|https://github.com/ohcnetwork/care_fe/issues/6503>",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1698330840,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#6503 Show more monitors in CNS on very large displays",
+                    "text": "*Describe the bug*  \nWhen CNS is opened in large 4K displays, 75% of the screen space is wasted.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Visit <https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/cns|https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/cns> on a 4K display\n\n*Expected behavior*  \nOn large displays, render more vitals monitors into view per page.\n\n*Screenshots*\n\n<https://private-user-images.githubusercontent.com/25143503/278376732-98f9e3f9-7e20-42ce-a095-5abe841e88c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA1NzE0MjQsIm5iZiI6MTczMDU3MTEyNCwicGF0aCI6Ii8yNTE0MzUwMy8yNzgzNzY3MzItOThmOWUzZjktN2UyMC00MmNlLWEwOTUtNWFiZTg0MWU4OGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAyVDE4MTIwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjODJjYTVlMjg4ZTgyODE5OTE5MWVmOGU1ZWU0NTJhMzNlZWRmODRjYjQxYTE3MTg0ZjA2NGNlZmMzYzc0MDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-f9881PiRtgb4fD7wY2JunWOsVmZ3yFP_Bdw6T9DxoI|image>",
+                    "title": "#6503 Show more monitors in CNS on very large displays",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "wishlist",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "DBX9+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "2 nov\nDone:\nMade changes on Issue 8691 waiting for feedback \nWill work on:\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/6503"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-03 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730651416.986549",
+            "client_msg_id": "2ceb0347-1e7a-4c78-8f1f-df9f0d38fc62",
+            "text": "3Nov 2024\nDone:8691\nNext:\n will start on this <https://github.com/ohcnetwork/care_fe/issues/6503|https://github.com/ohcnetwork/care_fe/issues/6503>",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1698330840,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#6503 Show more monitors in CNS on very large displays",
+                    "text": "*Describe the bug*  \nWhen CNS is opened in large 4K displays, 75% of the screen space is wasted.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Visit <https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/cns|https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/cns> on a 4K display\n\n*Expected behavior*  \nOn large displays, render more vitals monitors into view per page.\n\n*Screenshots*\n\n<https://private-user-images.githubusercontent.com/25143503/278376732-98f9e3f9-7e20-42ce-a095-5abe841e88c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NTE3MTgsIm5iZiI6MTczMDY1MTQxOCwicGF0aCI6Ii8yNTE0MzUwMy8yNzgzNzY3MzItOThmOWUzZjktN2UyMC00MmNlLWEwOTUtNWFiZTg0MWU4OGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE2MzAxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNjMzMGUyOTdkNzIxNzViNWY4ZWE0NmFmZmFlZDRlYzAzYWI3NDc5ZWZjMDY4MTg5MmJiMzU3NzM1MGYzNmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0uXNuOETojKR9baisr-y_fza2bCFoxNXFCJjb8ap2hI|image>",
+                    "title": "#6503 Show more monitors in CNS on very large displays",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "wishlist",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hHs5f",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3Nov 2024\nDone:8691\nNext:\n will start on this "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/6503",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/6503"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-04 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730736424.252129",
+            "client_msg_id": "cc2b0023-0e49-407b-91ed-feaf22433f70",
+            "text": "4Nov 2024\nworking on issues 6503\nNext:\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lfutD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4Nov 2024\nworking on issues 6503\nNext:\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-05 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730822049.016959",
+            "client_msg_id": "669daa46-5f75-4cc8-b102-e19192d09c6f",
+            "text": "5nov\nDone:\nWorking on issues #6503\nNext:\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "J56aD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "5nov\nDone:\nWorking on issues #6503\nNext:\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-06 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1730907258.044519",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1730907609.000000"
+            },
+            "client_msg_id": "aef363b4-aa6d-4a8b-9a28-3a33548701cc",
+            "text": "6 Nov\nDone :\nfixing :issue #6053\nnext:\nlooking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gEsYY",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "6 Nov\nDone :\nfixing :issue #6053\nnext:\nlooking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-14 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1731603983.831469",
+            "client_msg_id": "0f763782-32a2-46c1-872b-49f289246312",
+            "text": "14nov:\nDone: fixed the bug requested by tester <https://github.com/ohcnetwork/care_fe/pull/9013#issuecomment-2473293072>\nNext: will fix the issue of previous pr",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1731497059,
+                    "color": "24292f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/9013#issuecomment-2473293072",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "Comment on #9013 Fixed:Show more monitors in CNS on very large displays #6503",
+                    "text": "<https://private-user-images.githubusercontent.com/57055998/385735209-6d9343f0-0844-48e4-8119-968fe6337521.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2MDQyODUsIm5iZiI6MTczMTYwMzk4NSwicGF0aCI6Ii81NzA1NTk5OC8zODU3MzUyMDktNmQ5MzQzZjAtMDg0NC00OGU0LTgxMTktOTY4ZmU2MzM3NTIxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDE3MDYyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0MTQ4NjJlYjRkZjk5MDRlNzEwYmQwMzg4OGM2YWI1MmQ2NTk4MjVmMDdlNDIwZDc0Y2FjM2QxMmEzM2RkYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PrWip4SF-31Bo3UBZtP_3frVG20uyYGuwiW3kjpB26Q|image>  \n<https://private-user-images.githubusercontent.com/57055998/385735480-85d3d3c5-76b5-4db6-9e08-2a4fe5264a24.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2MDQyODUsIm5iZiI6MTczMTYwMzk4NSwicGF0aCI6Ii81NzA1NTk5OC8zODU3MzU0ODAtODVkM2QzYzUtNzZiNS00ZGI2LTllMDgtMmE0ZmU1MjY0YTI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDE3MDYyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlZTkxZjQ0YjdhMDQ3MjU2ZmQ5MjVhYWFhN2E1YWM2ZDNiOGRkNzlmYTE3ZmNkMzU0ZTY2ZGU3YTRmOWMyMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.T6VdC7C8XVtKzfgyHf8u9oKgQAG2oe-c5Yn3BjjaxJk|image>\n\n\u2022 whenever i click on the setting button in the cns page, it going to a loading state before showing the dropdown, fix it",
+                    "title": "Comment on #9013 Fixed:Show more monitors in CNS on very large displays #6503",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/9013#issuecomment-2473293072",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XgAo7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14nov:\nDone: fixed the bug requested by tester "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/9013#issuecomment-2473293072"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nNext: will fix the issue of previous pr"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-16 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1731778486.703909",
+            "client_msg_id": "7d3b8fd0-7945-41b9-994b-550c170e66b2",
+            "text": "16 Nov 2024\nDone\n\u2022 Worked on issue #8691\n\u2022 fixed some responsiveness issue in serchbymultiplefield component\nNext\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "J74Xh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "16 Nov 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issue #8691"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed some responsiveness issue in serchbymultiplefield component"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1731734364.508909",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1731734478.000000"
+            },
+            "client_msg_id": "ba175578-2137-491d-b94e-a466e9d83714",
+            "text": "15 th November\nDone\nworking on issue <https://github.com/ohcnetwork/care_fe/pull/8834>\nNext\nlooking for new issue\n(Sorry for being late in giving the end-of-day report)",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1729402782,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/8834",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8834 Fixed Add a better search UI for patients index page #8691",
+                    "text": "*Proposed Changes*\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/8691|#issue_number>\n\n@ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.openfoodfacts.org|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n*Release Notes*\n\n\u2022 *New Features*  \n   \u2022 Introduced a `SearchByMultipleFields` component for enhanced search functionality across various fields.  \n   \u2022 Added new UI components for dialogs, commands, and popovers, improving user interaction and accessibility.  \n   \u2022 Updated localization files to improve terminology and add new search options in English and Marathi.\n\u2022 *Bug Fixes*  \n   \u2022 Improved the interaction flow for patient name input in the patient management interface.\n\u2022 *Chores*  \n   \u2022 Updated dependencies to enhance UI component functionality.\n\u2022 *Documentation*  \n   \u2022 Enhanced translations for user interface elements in Marathi.",
+                    "title": "#8834 Fixed Add a better search UI for patients index page #8691",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/8834",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "test failed, changes required, merge conflict, stale",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "39",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4pRFH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15 th November\nDone\nworking on issue "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/8834"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\nlooking for new issue\n(Sorry for being late in giving the end-of-day report)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-17 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1731861549.331369",
+            "client_msg_id": "d5b15b5b-a53b-480f-8889-40fd00d765ec",
+            "text": "17 november\nDone\n\u2022 Worked on issue #8691\n\u2022 fixed  clearing input value after removing the filters\nNext\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0e1he",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 november\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issue #8691"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed  clearing input value after removing the filters"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-18 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1731961111.038129",
+            "client_msg_id": "c655e998-be26-4f47-a737-6c2f28903d13",
+            "text": "17 november\nDone\n\u2022 Working on issue #8691\nNext\n\u2022 Looking for new issues",
+            "team": "TC99SV7B6",
+            "thread_ts": "1731961111.038129",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1731994563.489309",
+            "reply_users": [
+                "UC99MFPU1",
+                "U07RFG735CP"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rhLQf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 november\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on issue #8691"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-19 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1731994715.948329",
+            "client_msg_id": "cde88b28-7b7b-4faf-8a10-a3de241ca2af",
+            "text": "17 november\nDone\n Working on issue #8691 ( fixed: adding advanced searchbyfield component)\nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CdWRI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 november\nDone\n Working on issue #8691 ( fixed: adding advanced searchbyfield component)\nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1731994637.866939",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1731994763.000000"
+            },
+            "client_msg_id": "d8a2031e-96f6-4e82-ab04-d51eac8f1fb9",
+            "text": ".",
+            "team": "TC99SV7B6",
+            "thread_ts": "1731994637.866939",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1731998136.627859",
+            "reply_users": [
+                "UC99MFPU1"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Ll1OP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-20 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1732076797.440529",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1732076810.000000"
+            },
+            "client_msg_id": "97e3d313-3649-4149-a118-1844266d5b9f",
+            "text": "19 november\nDone\n Implemented denouncing and checked some responsiveness in searchbymultiplefield component#8691 ( fixed: adding advanced searchbyfield component)\nNext\nCompleting issue 8691as soon as possible",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Swn4k",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19 november\nDone\n Implemented denouncing and checked some responsiveness in searchbymultiplefield component#8691 ( fixed: adding advanced searchbyfield component)\nNext\nCompleting issue 8691as soon as possible"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-21 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1732167420.639769",
+            "client_msg_id": "bb9b17ee-8593-4fc2-9edd-d53d3dd9b1d8",
+            "text": "20 november\nDone\nWorking on preventing unnecessary requests component#8691 ( fixed: adding advanced searchbyfield component)\nNext\nCompleting issue 8691as soon as possible",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zvF4j",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20 november\nDone\nWorking on preventing unnecessary requests component#8691 ( fixed: adding advanced searchbyfield component)\nNext\nCompleting issue 8691as soon as possible"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-22 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1732249372.115029",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1732249414.000000"
+            },
+            "client_msg_id": "4ce9a993-da7a-4c3b-bdc6-2a042d3ed5e1",
+            "text": "21 november\nDone\nWorking on  ( fixed: adding advanced searchbyfield component) issue #8691\nNext\nCompleting issue 8691as soon as possible",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+LjRb",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21 november\nDone\nWorking on  ( fixed: adding advanced searchbyfield component) issue #8691\nNext\nCompleting issue 8691as soon as possible"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-23 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1732339117.867269",
+            "client_msg_id": "23b25cfd-079f-4e7c-91e1-95c096b74244",
+            "text": "22 november\nDone\nWorking on ( fixed: adding advanced searchbyfield component) issue #8691\nNext\nCompleting issue 8691as soon as possible",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gWitt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22 november\nDone\nWorking on ( fixed: adding advanced searchbyfield component) issue #8691\nNext\nCompleting issue 8691as soon as possible"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-24 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1732475829.498299",
+            "client_msg_id": "56d929d2-4523-4e3d-9902-cc19875b19aa",
+            "text": "23 to 24 november\nDone\nWorking on ( fixed: adding advanced searchbyfield component) issue #8691, prevent unnecessary api calls for search field, build a custom hook for denouncing\nNext\nCompleting issue 8691as soon as possible",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732475829.498299",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1732522687.863859",
+            "reply_users": [
+                "U02D0NA6RHR",
+                "U07RFG735CP"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AwuIu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23 to 24 november\nDone\nWorking on ( fixed: adding advanced searchbyfield component) issue #8691, prevent unnecessary api calls for search field, build a custom hook for denouncing\nNext\nCompleting issue 8691as soon as possible"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-01 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1733031336.778209",
+            "client_msg_id": "007b1d9b-7592-49cb-80b3-8255d8bfe8c6",
+            "text": "30 Nov 2024\ndone: As of now, I have made some required changes requested by the reviewer in PR 8691 (multiple search functionality on the patient page). It was assigned to Shivank a few days ago.\nNext\nnow  looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "izK2d",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Nov 2024\ndone: As of now, I have made some required changes requested by the reviewer in PR 8691 (multiple search functionality on the patient page). It was assigned to Shivank a few days ago.\nNext\nnow  looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-20 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1734715894.473199",
+            "client_msg_id": "67ac1a24-5786-4ff0-bbd7-0b5f3c7bc518",
+            "text": "20 Dec 2024\nDone\n\u2022 No updates for today\nNext\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nPwkh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20 Dec 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No updates for today"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-21 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1734793848.378699",
+            "client_msg_id": "e6ed5fcb-d843-403f-bd6a-9e7f30770463",
+            "text": "21 Dec 2024\nDone \nNo progress for today, exploring django course content \nNext \n Look for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vxSpq",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21 Dec 2024\nDone \nNo progress for today, exploring django course content \nNext \n Look for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-24 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735013637.480609",
+            "client_msg_id": "d14d7fc2-d68c-4e2e-b66f-fe4188353f41",
+            "text": "December 23\nDone \n  1.Opened a new issue on ohc/leaderboard.(#573)\n  2.working on that\nNext:\n   Closing that issue as soon as possible",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WX4hK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 23\nDone \n  1.Opened a new issue on ohc/leaderboard.(#573)\n  2.working on that\nNext:\n   Closing that issue as soon as possible"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-25 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735106180.570439",
+            "client_msg_id": "2c130591-0f3a-4b1b-b534-9b33fe5f0ea4",
+            "text": "December 24\nDone\n  1.Opened a new issue on ohc/leaderboard.(#573)\n  2.working on that\nNext:\n   Closing that issue as soon as possible",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "T9PNT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 24\nDone\n  1.Opened a new issue on ohc/leaderboard.(#573)\n  2.working on that\nNext:\n   Closing that issue as soon as possible"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-26 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735189006.688159",
+            "client_msg_id": "cf477e6f-033c-4344-8a48-af8171c1a780",
+            "text": "December 25\nDone\n1. no work from my side ,573 was closed by ritvik \nNext:\nfinding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "T1FqO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 25\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "no work from my side ,573 was closed by ritvik "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\nfinding new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-27 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735322324.319849",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1735322376.000000"
+            },
+            "client_msg_id": "2b48b4ed-bc07-4dc4-b285-ab2ad9aa399e",
+            "text": "December 27th\nDone :\n\u2022 found a bug on form-fieldv1 / facility page\nNext :\n\u2022 looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1KxEt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 27th\nDone :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "found a bug on form-fieldv1 / facility page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735273561.920939",
+            "client_msg_id": "a462fd2d-145e-4570-8f58-5fc7ccb3222d",
+            "text": "December 26\nDone\n no work from my side , exploring django contents\nNext:\nfinding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1Mwsn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 26\nDone\n no work from my side , exploring django contents\nNext:\nfinding new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-29 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735448173.406439",
+            "edited": {
+                "user": "U07RFG735CP",
+                "ts": "1735448226.000000"
+            },
+            "client_msg_id": "1ac0b5c6-11e0-4080-8041-4a206193d797",
+            "text": "28 Dec 2024\nDone\n\u2022  found an issue on care_fe (<https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1735401400698719>)\nNext\n\u2022   Looking for new issues",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "from_url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1735401400698719",
+                    "ts": "1735401400.698719",
+                    "author_id": "U07RFG735CP",
+                    "channel_id": "C010GQBMFJ9",
+                    "channel_team": "TC99SV7B6",
+                    "is_msg_unfurl": true,
+                    "message_blocks": [
+                        {
+                            "team": "TC99SV7B6",
+                            "channel": "C010GQBMFJ9",
+                            "ts": "1735401400.698719",
+                            "message": {
+                                "blocks": [
+                                    {
+                                        "type": "rich_text",
+                                        "block_id": "4+ch4",
+                                        "elements": [
+                                            {
+                                                "type": "rich_text_section",
+                                                "elements": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "On the profile page, after uploading the profile avatar, the state should be updated  and set the avatar . I have to reload the page manually to see the changes, which is not expected. is anyone working on that or should I create an issue for that ?"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "id": 1,
+                    "original_url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1735401400698719",
+                    "fallback": "[December 28th, 2024 7:56 AM] pariarunava: On the profile page, after uploading the profile avatar, the state should be updated  and set the avatar . I have to reload the page manually to see the changes, which is not expected. is anyone working on that or should I create an issue for that ?",
+                    "text": "On the profile page, after uploading the profile avatar, the state should be updated  and set the avatar . I have to reload the page manually to see the changes, which is not expected. is anyone working on that or should I create an issue for that ?",
+                    "author_name": "Arunava Pari",
+                    "author_link": "https://rebuildearth.slack.com/team/U07RFG735CP",
+                    "author_icon": "https://secure.gravatar.com/avatar/02191f69ca260285a2576e65a930da9b.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-48.png",
+                    "author_subname": "Arunava Pari",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "footer": "Slack Conversation"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pJZmL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28 Dec 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " found an issue on care_fe ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1735401400698719"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "  Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-31 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735615554.827329",
+            "client_msg_id": "114eb24b-a5f4-4f03-a9fd-953d903d16d1",
+            "text": "30 Dec 2024\nDone\nOpened an issue (<https://github.com/ohcnetwork/care_fe/issues/9604|https://github.com/ohcnetwork/care_fe/issues/9604> )\nNext\n   Waiting for someone to assign it to me",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1735447580,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/9604",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9604 state update issue while uploading or removing the profile avatar",
+                    "text": "*Describe the bug*  \nOn the profile page, when we upload or remove an avatar by clicking the button, the state should update immediately, allowing us to see the result without reloading the page. However, currently, the profile is updated, but we have to manually reload the page to view the changes. This is not the expected behavior.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to profile\n2. Click on delete or upload button in change avatar\n3. See , the profile avatar is not updated and I have to reload to get the result\n\n*Expected behavior*  \nAfter uploading or removing the profile avatar, the state should be updated automatically without needing to reload the page.\n\n*Screenshots*\n\nhere I have removed the avatar but still it is showing in the icon and I have to reload the page manually to see the result ,state update issue ...\n\n<https://private-user-images.githubusercontent.com/141677292/399332987-13641ff1-9f83-4acf-88b9-9f7066ac9559.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU2MTU4NTUsIm5iZiI6MTczNTYxNTU1NSwicGF0aCI6Ii8xNDE2NzcyOTIvMzk5MzMyOTg3LTEzNjQxZmYxLTlmODMtNGFjZi04OGI5LTlmNzA2NmFjOTU1OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIzMVQwMzI1NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MDRmNzA4NzliZjQyMzY2Y2VmMjFhYTZiN2VlNDY4ZWRkMDYyMzI3N2IwMTg3MjY5ZDI0NmRiOTI4MWFkZWNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DpG3q9vAKrzhplhbrUmEVOk6qRu3OHC9tAGwySs1j0U|Image>\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [latest]",
+                    "title": "#9604 state update issue while uploading or removing the profile avatar",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/9604",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "question, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "3",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "svKMl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Dec 2024\nDone\nOpened an issue ("
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/9604",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/9604"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " )\nNext\n   Waiting for someone to assign it to me"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735615266.806469",
+            "client_msg_id": "b078b9f4-cf1d-4fed-9cea-8930eb2c2939",
+            "text": "29 Dec 2024\nDone\n No work \nNext\n   Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HmUZ6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29 Dec 2024\nDone\n No work \nNext\n   Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-01 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735708196.803739",
+            "client_msg_id": "ff4d1ec4-b9fa-4398-8108-c302468bbb7b",
+            "text": "31 Dec 2024\nDone\nStudying django contents \nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Zdfzk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "31 Dec 2024\nDone\nStudying django contents \nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-02 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735789330.972599",
+            "client_msg_id": "8ebf3a90-3d6e-4be8-b625-2cab71bdc029",
+            "text": "1st JAN 2025\nDone\nStudying django contents \nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7dVPC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "1st JAN 2025\nDone\nStudying django contents \nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-03 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735881965.578099",
+            "client_msg_id": "9ec1bff1-6777-4825-a56f-ed11cc765780",
+            "text": "1st JAN 2025\nDone\nWorking on \n<https://github.com/ohcnetwork/care_fe/issues/9660|https://github.com/ohcnetwork/care_fe/issues/9660> ,\nNext\n\n Looking for new issues.",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1735827109,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9660 Add debouncing for all new API's",
+                    "text": "*Describe the bug*  \nDebouncing is not added in organization and facilities search field. On every key stroke network call is made, that's not expected\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to organization or facility page\n2. open network tab\n3. search anything\n4. notice On every key stroke a network call is made\n\n*Expected behavior*  \nNetwork calls should be debounced so that they are made only after the user has stopped typing for a short period, reducing unnecessary calls and improving performance.\n\n*Screenshots*\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.",
+                    "title": "#9660 Add debouncing for all new API's",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "question, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Jrow9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "1st JAN 2025\nDone\nWorking on \n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/9660"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ,\nNext\n\n Looking for new issues."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-04 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735969358.749849",
+            "client_msg_id": "05c5eadf-bc6c-431d-8802-5962bac4c80c",
+            "text": "3rd JAN 2025\nDone\nWorking on \n<https://github.com/ohcnetwork/care_fe/issues/9660|https://github.com/ohcnetwork/care_fe/issues/9660> ,\nNext\n\n Looking for new issues.",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1735827109,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9660 Add debouncing for all new API's",
+                    "text": "*Describe the bug*  \nDebouncing is not added in organization and facilities search field. On every key stroke network call is made, that's not expected\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to organization or facility page\n2. open network tab\n3. search anything\n4. notice On every key stroke a network call is made\n\n*Expected behavior*  \nNetwork calls should be debounced so that they are made only after the user has stopped typing for a short period, reducing unnecessary calls and improving performance.\n\n*Screenshots*\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.",
+                    "title": "#9660 Add debouncing for all new API's",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "question, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3DpLO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3rd JAN 2025\nDone\nWorking on \n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/9660"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ,\nNext\n\n Looking for new issues."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1735969327.369929",
+            "client_msg_id": "7dac4c26-b683-4553-80ef-4e371927d477",
+            "text": "2nd JAN 2025\nDone\nWorking on \n<https://github.com/ohcnetwork/care_fe/issues/9660|https://github.com/ohcnetwork/care_fe/issues/9660> ,\nNext\n\n Looking for new issues.",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1735827109,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9660 Add debouncing for all new API's",
+                    "text": "*Describe the bug*  \nDebouncing is not added in organization and facilities search field. On every key stroke network call is made, that's not expected\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to organization or facility page\n2. open network tab\n3. search anything\n4. notice On every key stroke a network call is made\n\n*Expected behavior*  \nNetwork calls should be debounced so that they are made only after the user has stopped typing for a short period, reducing unnecessary calls and improving performance.\n\n*Screenshots*\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.",
+                    "title": "#9660 Add debouncing for all new API's",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "question, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CBr7N",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "2nd JAN 2025\nDone\nWorking on \n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/9660"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ,\nNext\n\n Looking for new issues."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-05 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736057028.343379",
+            "client_msg_id": "ed1afbb5-c2b5-4993-a2f1-dd1fbd68b18d",
+            "text": "3rd JAN 2025\nDone\nWorking on \n<https://github.com/ohcnetwork/care_fe/issues/9660|https://github.com/ohcnetwork/care_fe/issues/9660> ,\nNext\n\n Looking for new issues.",
+            "team": "TC99SV7B6",
+            "thread_ts": "1736057028.343379",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1736062653.700979",
+            "reply_users": [
+                "U07RFG735CP"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1735827109,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9660 Add debouncing for all new API's",
+                    "text": "*Describe the bug*  \nDebouncing is not added in organization and facilities search field. On every key stroke network call is made, that's not expected\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to organization or facility page\n2. open network tab\n3. search anything\n4. notice On every key stroke a network call is made\n\n*Expected behavior*  \nNetwork calls should be debounced so that they are made only after the user has stopped typing for a short period, reducing unnecessary calls and improving performance.\n\n*Screenshots*\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.",
+                    "title": "#9660 Add debouncing for all new API's",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "question, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3DpLO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3rd JAN 2025\nDone\nWorking on \n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/9660",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/9660"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ,\nNext\n\n Looking for new issues."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-07 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736273049.672989",
+            "client_msg_id": "63f7394f-e371-4189-938f-6320f60ccb12",
+            "text": "7th Jan 2025\n*Done*\n\u2022 working on  pr <https://github.com/ohcnetwork/care_fe/pull/9801>\n\u2022 added debouncing for search APIs\n*Next*\n\u2022 closing it ASAP.\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1736187681,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/9801",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9801 Added debouncing for APIs",
+                    "text": "*Proposed Changes*\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/9660|#9660>\n\u2022 added debouncing for 3 apis\n\n@ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.openfoodfacts.org|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n\u2022 *New Features*  \n   \u2022 Implemented debouncing mechanism for search functionality across multiple components.  \n   \u2022 Optimized search performance by reducing unnecessary API calls during rapid input.\n\u2022 *Performance Improvements*  \n   \u2022 Added 500-millisecond delay to search queries to minimize server requests.  \n   \u2022 Enhanced user experience by smoothing out search input responsiveness.\n\u2022 *Chores*  \n   \u2022 Minor code cleanup in type definitions file.",
+                    "title": "#9801 Added debouncing for APIs",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/9801",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "changes required",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "6",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "shhxj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "7th Jan 2025\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working on  pr "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9801"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added debouncing for search APIs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "closing it ASAP."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736272968.381659",
+            "client_msg_id": "b08ede51-0033-4507-b02d-15854f308ec4",
+            "text": "6th Jan 2025\n*Done*\n\u2022 raised a pr <https://github.com/ohcnetwork/care_fe/pull/9801>\n*Next*\n\u2022 closing it ASAP.\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1736187681,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/9801",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9801 Added debouncing for APIs",
+                    "text": "*Proposed Changes*\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/9660|#9660>\n\u2022 added debouncing for 3 apis\n\n@ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.openfoodfacts.org|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n\u2022 *New Features*  \n   \u2022 Implemented debouncing mechanism for search functionality across multiple components.  \n   \u2022 Optimized search performance by reducing unnecessary API calls during rapid input.\n\u2022 *Performance Improvements*  \n   \u2022 Added 500-millisecond delay to search queries to minimize server requests.  \n   \u2022 Enhanced user experience by smoothing out search input responsiveness.\n\u2022 *Chores*  \n   \u2022 Minor code cleanup in type definitions file.",
+                    "title": "#9801 Added debouncing for APIs",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/9801",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "changes required",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "6",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "e+BEI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "6th Jan 2025\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "raised a pr "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9801"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "closing it ASAP."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-09 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736445573.404899",
+            "client_msg_id": "12937140-af91-46b8-afb0-586fbd9301e0",
+            "text": "09 Jan 2025\nDone\n\u2022 no work \nNext\nsearching for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1gynx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "09 Jan 2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "no work "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\nsearching for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736405493.731999",
+            "client_msg_id": "8e3c0a0e-b571-4e2e-aa27-2061d3574683",
+            "text": "8th Jan 2025\n1.Working on pr #9801\n2.updated en.json for translation of the files,I changed \nNext\n closing it ASAP.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pWgeg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "8th Jan 2025\n1.Working on pr #9801\n2.updated en.json for translation of the files,I changed \nNext\n closing it ASAP."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-11 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736578504.334559",
+            "client_msg_id": "4ac1a697-a834-491a-90ad-187216220c7e",
+            "text": "10 Jan 2025\nDone\n\u2022 no work\nNext\nsearching for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fmtFY",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10 Jan 2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "no work"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\nsearching for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-12 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736664209.074269",
+            "client_msg_id": "2a3f7246-ea95-4f5a-822f-2d2c317958b6",
+            "text": "11 Jan 2025\nExploring django contents \nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PyeBt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "11 Jan 2025\nExploring django contents \nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-14 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736835142.851509",
+            "client_msg_id": "16a343fb-12c2-493d-82ff-6866a8450898",
+            "text": "13 Jan 2025\nExploring django contents \nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fz0jv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Jan 2025\nExploring django contents \nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U02D0NA6RHR"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-01-15 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1736930357.121469",
+            "client_msg_id": "d9be94b2-c96b-419a-ade7-f8e972d4a29f",
+            "text": "14 Jan 2025\nFound some bug in patient search field \nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9Loa1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14 Jan 2025\nFound some bug in patient search field \nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-01-16 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737006654.101269",
+            "client_msg_id": "d10e806e-5c74-4f35-8021-d111c37b579b",
+            "text": "15 Jan 2025\nRaised issue <https://github.com/ohcnetwork/care_fe/issues/9985|https://github.com/ohcnetwork/care_fe/issues/9985>\nNext\nLooking for new issues",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1736933125,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/9985",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9985 Unnecessary Re-render on Country Code Change",
+                    "text": "*Describe the bug*  \nThe patient phone number field component experiences unnecessary re-rendering when the country code is changed. This affects the performance and user experience.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to dashboard -> choose any organisation\n2. Choose patient ph number search field\n3. Change country code\n4. Notice re rendering\n\n*Expected behavior*  \nChanging the country code should not trigger unnecessary re-renders of the component.\n\n*Screenshots*  \nIf applicable, add screenshots to help explain your problem.\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.",
+                    "title": "#9985 Unnecessary Re-render on Country Code Change",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/9985",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "work-in-progress",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "1",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EwUgP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15 Jan 2025\nRaised issue "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/9985",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/9985"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\nLooking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-17 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737135037.927509",
+            "client_msg_id": "4809291f-ff89-4272-bd17-fc8575708de7",
+            "text": "17 Jan 2025\nFound a ui related bug in care_fe\nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8XY5m",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 Jan 2025\nFound a ui related bug in care_fe\nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737127214.663089",
+            "client_msg_id": "d2117776-3c6c-4256-b348-78be662e173c",
+            "text": "16 Jan 2025\nNo work \nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CVT/R",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "16 Jan 2025\nNo work \nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-18 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737224024.020559",
+            "client_msg_id": "801b31b5-9733-4f7c-a58e-9f8bed1340ce",
+            "text": "18 Jan 2025\nCreated an issue <https://github.com/ohcnetwork/care_fe/issues/10036|https://github.com/ohcnetwork/care_fe/issues/10036>\nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1737167828,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/10036",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#10036 Text Overflow in Search Results Causes UI Distortion",
+                    "text": "*Describe the bug*  \nWhen a user searches with a very long input, the text in the search results is not handled properly, causing it to overflow outside the designated container. This results in breaking the UI layout, as shown in the attached screenshot\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Open the application and navigate to the search functionality.\n2. Enter a long string in the search bar (e.g., \"Thummmmmmmmmjjkkkkkkkkkjjjkkkkkkrfrrrtttt\").\n3. Observe the overflow issue in the search results or UI elements related to the input.\n\n*Expected behavior*  \nLong text should not overflow the container.  \n*Screenshots*  \n<https://rebuildearth.slack.com/files/U07RFG735CP/F088Z0FC9EJ/screenshot_20250117_210035_chrome.jpg|https://rebuildearth.slack.com/files/U07RFG735CP/F088Z0FC9EJ/screenshot_20250117_210035_chrome.jpg>\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.",
+                    "title": "#10036 Text Overflow in Search Results Causes UI Distortion",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/10036",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/i0am0arunava|@i0am0arunava>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "question, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+piyF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18 Jan 2025\nCreated an issue "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/10036",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/10036"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-20 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737364783.000159",
+            "client_msg_id": "8dd4a19e-2d78-4664-9e16-7853e09ad6c7",
+            "text": "19 Jan 2025\nworked on <https://github.com/ohcnetwork/care_fe/pull/10055>\nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1737303226,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/10055",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#10055 Fixed text overflow in search results to prevent UI distortion",
+                    "text": "*Proposed Changes*\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/10036|#10036>\n\n@ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.openfoodfacts.org|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n\u2022 *Style*  \n   \u2022 Enhanced readability of messages when no organizations are found by simplifying the displayed text.  \n   \u2022 Standardized capitalization for the \"No Organizations Found\" message in the locale file.\n\u2022 *Bug Fixes*  \n   \u2022 Removed dynamic search query from \"no organizations found\" messages for clarity.",
+                    "title": "#10055 Fixed text overflow in search results to prevent UI distortion",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/10055",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "changes required",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "6",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "s/hzv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19 Jan 2025\nworked on "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/10055"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-01-21 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737445103.153469",
+            "client_msg_id": "a7b18679-42aa-4bd4-b91f-9897e38ff0d4",
+            "text": "20 Jan 2025\nworked on <https://github.com/ohcnetwork/care_fe/pull/10055|https://github.com/ohcnetwork/care_fe/pull/10055>\nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1737303226,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/10055",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#10055 Fixed text overflow in search results to prevent UI distortion",
+                    "text": "*Proposed Changes*\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/10036|#10036>\n\n@ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.openfoodfacts.org|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n\u2022 *Style*  \n   \u2022 Enhanced readability of messages when no organizations are found by simplifying the displayed text.  \n   \u2022 Standardized capitalization for the \"No Organizations Found\" message in the locale file.\n\u2022 *Bug Fixes*  \n   \u2022 Removed dynamic search query from \"no organizations found\" messages for clarity.",
+                    "title": "#10055 Fixed text overflow in search results to prevent UI distortion",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/10055",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "changes required",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "6",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xEavK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20 Jan 2025\nworked on "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/10055",
+                                    "text": "https://github.com/ohcnetwork/care_fe/pull/10055"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-01-22 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737557913.472259",
+            "client_msg_id": "b7f530e1-72ef-4b06-89ce-0e1ef3616c36",
+            "text": "21 Jan 2025\nNo work\nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7V/9g",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21 Jan 2025\nNo work\nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-01-23 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737606949.349549",
+            "client_msg_id": "9dc66e8c-5da1-4b6b-b48f-5fb1be8c1a28",
+            "text": "22 Jan 2025\nFound a small ui bug\nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qeCOj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22 Jan 2025\nFound a small ui bug\nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-01-24 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737739534.166379",
+            "client_msg_id": "af783b01-39b1-45a8-939e-bec44a5ba04d",
+            "text": "23 Jan 2025\nRaised Pr with solution <https://github.com/ohcnetwork/care_fe/pull/10136>\nNext\nLooking for new issue",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1737709243,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/10136",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#10136 Fixed issue placeholder text not fully visible",
+                    "text": "*Proposed Changes*\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/10125|#10125>\n\n@ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.openfoodfacts.org|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n\u2022 *Style*  \n   \u2022 Updated input field styling with responsive placeholder text sizing  \n   \u2022 Added padding to input fields for improved visual appearance  \n   \u2022 Enhanced input component's responsive design for smaller screen sizes",
+                    "title": "#10136 Fixed issue placeholder text not fully visible",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/10136",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "3",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "maABY",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23 Jan 2025\nRaised Pr with solution "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/10136"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\nLooking for new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-26 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1737880451.744539",
+            "client_msg_id": "aef96464-f0e3-4eec-b110-002935d2edf2",
+            "text": "25 Jan 2025\nDone\n\u2022 no work\nNext\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CD+x1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Jan 2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "no work"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-28 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1738056713.042409",
+            "client_msg_id": "a54bce30-c8cb-4703-b149-6b5a45263247",
+            "text": "25 Jan 2025\nDone\nexploring django content\nNext\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qAdQt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Jan 2025\nDone\nexploring django content\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-01-29 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1738181350.954289",
+            "client_msg_id": "7fb9fb71-6a1d-4f07-b08a-dabd368a46bd",
+            "text": "29 Jan 2025\nDone\nNo work\nNext\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nMByL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29 Jan 2025\nDone\nNo work\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-31 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1738298108.960039",
+            "client_msg_id": "83c54bf3-e924-422e-8998-3ce7b483d229",
+            "text": "30 Jan 2025\nDone\nExploring django contents \nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "43EJ6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Jan 2025\nDone\nExploring django contents \nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-01 00:00:00": [
+        {
+            "user": "U07RFG735CP",
+            "type": "message",
+            "ts": "1738400727.408759",
+            "client_msg_id": "a6ffe227-c108-4586-a3f4-32083785c30b",
+            "text": "31 Jan 2025\nDone\nExploring django contents\nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9+Cr2",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "31 Jan 2025\nDone\nExploring django contents\nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

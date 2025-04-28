@@ -1,0 +1,1963 @@
+{
+    "2025-02-04 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1738674813.707819",
+            "edited": {
+                "user": "U06M96TV77E",
+                "ts": "1738675138.000000"
+            },
+            "client_msg_id": "72a0c379-a272-4c6d-ad23-c68941ccea7f",
+            "text": "Feb 4th\n\u2022 Made a PR in care docs related to CEP for Patient tagging system.\n\u2022 Found a new issue regarding no proper error handling for resource status update in the Resource page.\nNext\n\u2022 Looking for new issues/tasks\n\u2022 Work on open PRs as per feedback ",
+            "team": "TC99SV7B6",
+            "thread_ts": "1738674813.707819",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1738681795.996989",
+            "reply_users": [
+                "UC8TSEGCQ",
+                "U06M96TV77E"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XoiKK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Feb 4th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a PR in care docs related to CEP for Patient tagging system."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Found a new issue regarding no proper error handling for resource status update in the Resource page."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues/tasks"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on open PRs as per feedback "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U07NXCASM89"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-02-05 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1738760923.699119",
+            "client_msg_id": "71371024-c96c-490d-bdbd-928c99ce5708",
+            "text": "5th Feb 2025\n\u2022 Got assigned with an issue of adding a new cypress test and started working on the issue today after clarification of requirements from Nihal.\n\u2022 Spent time exploring about all the new changes in CARE as its my 2nd day as intern so I was not familiar with that before.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZS5EP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "5th Feb 2025\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned with an issue of adding a new cypress test and started working on the issue today after clarification of requirements from Nihal."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Spent time exploring about all the new changes in CARE as its my 2nd day as intern so I was not familiar with that before."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-06 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1738840889.469289",
+            "client_msg_id": "8d59ed7b-82e2-40a8-8389-ba41c5d8b1c8",
+            "text": "06th Feb 2025\n\u2022 Worked on creating a new cypress test for checking the mandatory fields of Community nurse form both submission failed and passed.\n\u2022 Faced some errors related to type and select functions, currently resolving them\nNext\n\u2022 Create cypress test for checking all fields also.\n\u2022 Looking for new issues and exploring updates.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SaO+u",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "06th Feb 2025\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on creating a new cypress test for checking the mandatory fields of Community nurse form both submission failed and passed."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Faced some errors related to type and select functions, currently resolving them"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create cypress test for checking all fields also."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues and exploring updates."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-07 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1738932130.006259",
+            "client_msg_id": "631fced9-bd53-4d4d-94c9-348d7f2fa46b",
+            "text": "*06 Feb*\n*Done*\n\u2022 Worked on creating cypress test for all the fields in Community Nurse Homecare.\n\u2022 Also worked on creating live preview for creating new questionnaire form.\n\u2022 My day was not that productive got tired.\n*Next*\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OPJpL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "06 Feb",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on creating cypress test for all the fields in Community Nurse Homecare."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Also worked on creating live preview for creating new questionnaire form."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "My day was not that productive got tired."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-08 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1739028546.765149",
+            "client_msg_id": "fa63e6e5-d52c-43d6-80a7-d4e4d4dad062",
+            "text": "8 Feb 2025\n\u2022 Worked on fixing login page phone number country search functionality.\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2bl2g",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "8 Feb 2025\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on fixing login page phone number country search functionality."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-11 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1739266733.552199",
+            "client_msg_id": "84c18f2d-2059-4d9c-ab0b-73c866ce5583",
+            "text": "10 Feb 2024\n\u2022 Opened a New issue <https://github.com/ohcnetwork/care_fe/issues>\n\u2022 Created frontend mockups for Questionnaire search functionality\nNext\n\u2022 Looking for new bugs to solve\n\u2022 start implementing the frontend changes according to mockups\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3hV3P",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10 Feb 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened a New issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created frontend mockups for Questionnaire search functionality"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new bugs to solve"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "start implementing the frontend changes according to mockups"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-02-12 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1739359735.501589",
+            "client_msg_id": "be6f1072-1e98-4f30-8fd1-f295e6cccb3e",
+            "text": "12 Feb 2025\nDone\n\u2022 Got done with categorizing and segregating the questionnaires into statuses Active, Draft and Retired in the frontend of questionnaires page.\nNext\n\u2022 Implement the search functionality tomorrow\n\u2022 Change the loading component of the page to Table skeleton loading component.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cgvWj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12 Feb 2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got done with categorizing and segregating the questionnaires into statuses Active, Draft and Retired in the frontend of questionnaires page."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implement the search functionality tomorrow"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Change the loading component of the page to Table skeleton loading component."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-02-14 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1739553951.815929",
+            "client_msg_id": "7c9fb5ae-7aec-4eba-9fbb-85746b34bf15",
+            "text": "14 Feb 2025\nDone\n\u2022 Busy yet productive day.\n\u2022 Made changes to <https://github.com/ohcnetwork/care_fe/pull/10591> as suggested by <@U07NXCASM89> and waiting for the review.\n\u2022 Opened 2 new issues of minor UI bugs <https://github.com/ohcnetwork/care_fe/issues/10611> <https://github.com/ohcnetwork/care_fe/issues/10600> got assigned one and waiting for other to get assigned.\nNext\n\u2022 work on the 2 issues for the rest of the week\n\u2022 Looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "g12dY",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14 Feb 2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Busy yet productive day."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes to "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10591"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " as suggested by "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NXCASM89"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and waiting for the review."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened 2 new issues of minor UI bugs "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/10611"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/10600"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " got assigned one and waiting for other to get assigned."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "work on the 2 issues for the rest of the week"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U082GUAL80N"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-02-19 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1739974978.684959",
+            "client_msg_id": "37f7c6e4-c55a-43af-9cf1-aeebb905ae9e",
+            "text": "18-19 Feb 2025\nDone\n\u2022 Opened an issue regarding symptoms onset date in encounters overview.\n\u2022 Raised a PR for adding pagination for Appointments page list view\n\u2022 Made changes for conflicts of pagination with existing filters as suggested by <@U02TDGQQPMJ> \n\u2022 Added translations to an existing PR of Adding search and status filters to questionnaires list\nNext\n\u2022 Looking for 2 new issues to be assigned\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FC8/X",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18-19 Feb 2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened an issue regarding symptoms onset date in encounters overview."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a PR for adding pagination for Appointments page list view"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes for conflicts of pagination with existing filters as suggested by "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TDGQQPMJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added translations to an existing PR of Adding search and status filters to questionnaires list"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for 2 new issues to be assigned"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-22 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1740237473.648679",
+            "client_msg_id": "c999a588-e87a-4748-bcbd-a9d6311a5b64",
+            "text": "Feb 22nd\n\u2022 Got merged <https://github.com/ohcnetwork/care_fe/pull/10741>.\n\u2022 Raised a PR to add symptoms onset date field <https://github.com/ohcnetwork/care_fe/pull/10759> which got approved by Jacob.\n\u2022 Opened an issue <https://github.com/ohcnetwork/care_fe/issues/10763> hoping to get it assigned soon.\n\u2022 Making changes in a PR for adding pagination to appointments page. Needed to refactor the existing code also.\nNext\n\u2022 Working on the Open PR by making changes.\n\u2022 Working on <https://github.com/ohcnetwork/care_fe/issues/10674>\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Ds5dO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Feb 22nd\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got merged "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10741"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a PR to add symptoms onset date field "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10759"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " which got approved by Jacob."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened an issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/10763"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " hoping to get it assigned soon."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Making changes in a PR for adding pagination to appointments page. Needed to refactor the existing code also."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on the Open PR by making changes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/10674"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-28 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1740742100.458689",
+            "client_msg_id": "0c74b449-4a6d-42ac-bdbb-2aa01f8c47e1",
+            "text": "27-28th Feb\n\u2022 Raised a PR for a high priority issue opened by <@U022THM4U2U> <https://github.com/ohcnetwork/care_fe/issues/10844>\n\u2022 Raised a PR <https://github.com/ohcnetwork/care_fe/pull/10845> regarding fetching valueset options in choice question component. <@U07NXCASM89> suggested a change and needs review by <@UV5PPBE2D> \n\u2022 Made changes to the existing PR of adding pagination to appointments list view and adding validations to slug and name field for valueset form\n\u2022 Opened a new issue <https://github.com/ohcnetwork/care_fe/issues/10863> which was marked as discussion required by <@U07NXCASM89> \nNext\n\u2022 Looking for new issues and existing PR's to be merged",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ghKy4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "27-28th Feb\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a PR for a high priority issue opened by "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U022THM4U2U"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/10844"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10845"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " regarding fetching valueset options in choice question component. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NXCASM89"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " suggested a change and needs review by "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UV5PPBE2D"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes to the existing PR of adding pagination to appointments list view and adding validations to slug and name field for valueset form"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened a new issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/10863"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " which was marked as discussion required by "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NXCASM89"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues and existing PR's to be merged"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-03 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1741020555.282809",
+            "client_msg_id": "9ccea3e3-03e6-4e2e-8fca-2de2cf1987df",
+            "text": "3rd Feb\n\u2022 Not productive as I was having exam in the college so had to be present there for whole day.\n\u2022 So thats why I worked at 12:00 AM the previous night and made a PR <https://github.com/ohcnetwork/care/pull/2883> in the backend to add status and name filters for allergy, symptoms and diagnosis which got merged today.\nNext\n\u2022 Make small changes requested by <@U02TDGQQPMJ> in the existing PR's\n\u2022 Make backend validation change for issue <https://github.com/ohcnetwork/care_fe/issues/10861> \n\u2022 Finally close the PR's for this month by tmrw EOD and only after then will take up new issues.",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1740935251,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/2883",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#2883 Added name and status filters to condition and allergy intolerance",
+                    "title": "#2883 Added name and status filters to condition and allergy intolerance",
+                    "title_link": "https://github.com/ohcnetwork/care/pull/2883",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>"
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1740692565,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/10861",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#10861 Bug : Dosage Input Allows Null Values on Save",
+                    "title": "#10861 Bug : Dosage Input Allows Null Values on Save",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/10861",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "alkBa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3rd Feb\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Not productive as I was having exam in the college so had to be present there for whole day."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "So thats why I worked at 12:00 AM the previous night and made a PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/2883"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in the backend to add status and name filters for allergy, symptoms and diagnosis which got merged today."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make small changes requested by "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TDGQQPMJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in the existing PR's"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make backend validation change for issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/10861"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finally close the PR's for this month by tmrw EOD and only after then will take up new issues."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-07 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1741346246.204659",
+            "client_msg_id": "50ee252c-2857-407c-ae56-23d8932762c8",
+            "text": "6th- 7th March\n\u2022 Worked on existing PR's.\n\u2022 Got assigned with a backend issue of adding functionality to record patient nationality. So started working on it today just had a glance on the recommended FHIR valueset for recording nationality\n\u2022 Appointments pagination list view PR got tested by Nihal successfully.\n\u2022 Opened a new issue regarding unwanted scroll issue inn encounters page\nNext\n\u2022 Eagerly looking for the opened issue to get assigned.\n\u2022 Looking for 2 new issues at least for this  week",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mNE7F",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "6th- 7th March\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on existing PR's."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned with a backend issue of adding functionality to record patient nationality. So started working on it today just had a glance on the recommended FHIR valueset for recording nationality"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Appointments pagination list view PR got tested by Nihal successfully."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened a new issue regarding unwanted scroll issue inn encounters page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Eagerly looking for the opened issue to get assigned."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for 2 new issues at least for this  week"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-13 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1741880100.442269",
+            "edited": {
+                "user": "U06M96TV77E",
+                "ts": "1741880504.000000"
+            },
+            "client_msg_id": "ba6fffdb-2b74-43de-a9c4-32eb1a7d548e",
+            "text": "12th- 13th March\n\u2022 Worked on a PR related to some minor enhancements in questionnaires and valuesets list pages a P1 issue is include in this PR itself.\n\u2022 Raised a PR on switching to Autocomplete field for selecting valuesets from a dropdown while creating a new questionnaire choice question\n\u2022 Opened a new issue regarding cypress coverage: E2E tests for symptoms/allergy/diagnosis in encounters page and updated its workflow. <@U022THM4U2U> to have a look and confirm :innocent:\n\u2022 Opened a new issue related to vitals not showing properly in the questionnaire responses in encounters overview.\nNext\n\u2022 Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EjIll",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12th- 13th March\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on a PR related to some minor enhancements in questionnaires and valuesets list pages a P1 issue is include in this PR itself."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a PR on switching to Autocomplete field for selecting valuesets from a dropdown while creating a new questionnaire choice question"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened a new issue regarding cypress coverage: E2E tests for symptoms/allergy/diagnosis in encounters page and updated its workflow. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U022THM4U2U"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to have a look and confirm "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "innocent",
+                                            "unicode": "1f607"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened a new issue related to vitals not showing properly in the questionnaire responses in encounters overview."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-15 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1742054660.497469",
+            "client_msg_id": "534cdfd3-f647-4a99-8555-018ca0410a6b",
+            "text": "14th- 15th march\n\u2022 Could not work as I was busy with college major project review ppt making for 2 days\nNext\n\u2022 raise a PR for a bug in questionnaire responses\n\u2022 Looking for  new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "NuVsA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14th- 15th march\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Could not work as I was busy with college major project review ppt making for 2 days"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "raise a PR for a bug in questionnaire responses"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for  new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-03-29 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1743222955.122479",
+            "client_msg_id": "596be0db-a0e5-4ba8-bcde-8571dd973c31",
+            "text": "26th-28th March\n\u2022 Pr got merged related to a bug regarding grouped fields not appearing in questionnaire responses\n\u2022 Pushed some conditional changes to a PR addressing some bugs in Encounter Manage consents\n\u2022 Added zod validations to question editor in questionnaire create and update form to validate coding and unit\nNext\n\u2022 Setup ABDM to resolve a bug in claims coverage dialog\n\u2022 Refine the code for zod validations and get it ready to merge",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xY1qD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26th-28th March\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pr got merged related to a bug regarding grouped fields not appearing in questionnaire responses"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pushed some conditional changes to a PR addressing some bugs in Encounter Manage consents"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added zod validations to question editor in questionnaire create and update form to validate coding and unit"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup ABDM to resolve a bug in claims coverage dialog"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refine the code for zod validations and get it ready to merge"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE",
+                        "U082GUAL80N"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-04-09 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1744189011.601549",
+            "client_msg_id": "11f3e982-0685-436a-977c-cd87fb710c40",
+            "text": "April 6th-9th:\n\u2022 Pushed some changes in the PR for adding validations to question editor, fixed some weird default behaviors :sunglasses:. Changes approved by Jacob\n\u2022 Resolved merge conflicts for the above PR.\n\u2022 Opened a PR for adding options to re-order the custom choice options in questionnaire\nNext:\n\u2022 Raise a PR for adding E2E tests for encounter symptoms, diagnosis and allergy functionality which I got assigned\n\u2022 Looking ahead to get the above 2 PR's merged soon as the 1st one was pending for a long time:sweat_smile:",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Vm/z8",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "April 6th-9th:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pushed some changes in the PR for adding validations to question editor, fixed some weird default behaviors "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "sunglasses",
+                                            "unicode": "1f60e"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ". Changes approved by Jacob"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolved merge conflicts for the above PR."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened a PR for adding options to re-order the custom choice options in questionnaire"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise a PR for adding E2E tests for encounter symptoms, diagnosis and allergy functionality which I got assigned"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking ahead to get the above 2 PR's merged soon as the 1st one was pending for a long time"
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "sweat_smile",
+                                            "unicode": "1f605"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U0576PEACG0"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-04-20 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1745133611.310889",
+            "client_msg_id": "5027699c-1bd1-419b-abe2-aaad120b4d68",
+            "text": "18-19 April\n\u2022 PR for specifying question unit, adding validations in Coding Editor and adding Move up/down buttons addressing the changes requested by Bodhi for the issues\n\u2022 Updated the cypress PR for adding E2E tests for symptoms, diagnosis and allergy is ready for review\n\u2022 Working for adding Org filter in care team sheet\nNext\n\u2022 Raise a PR for care team sheet add org filter issue.\n\u2022 Looking for new issues.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mXUOW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18-19 April\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR for specifying question unit, adding validations in Coding Editor and adding Move up/down buttons addressing the changes requested by Bodhi for the issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the cypress PR for adding E2E tests for symptoms, diagnosis and allergy is ready for review"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working for adding Org filter in care team sheet"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise a PR for care team sheet add org filter issue."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4191 @@
+{
+    "2022-05-23 00:00:00": [
+        {
+            "client_msg_id": "d997c1de-1c01-4976-ac5e-dd2fd89fca4b",
+            "type": "message",
+            "text": "<@U02TB8XHZD1> :rocket:",
+            "user": "UV5PPBE2D",
+            "ts": "1653249907.033899",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JjtsR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U02TB8XHZD1"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "rocket"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1653249907.033899",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1653250000.621879",
+            "reply_users": [
+                "U02TB8XHZD1"
+            ],
+            "is_locked": false,
+            "subscribed": false
+        }
+    ],
+    "2022-05-10 00:00:00": [
+        {
+            "client_msg_id": "9a55ed82-0d3c-4e25-893f-c1610b60f488",
+            "type": "message",
+            "text": "GDC Internship Format:\n\nEOD Calls will be conducted every day at 7.30 over Zoom:\n\nEveryone should update their EOD Updates on this slack channel regardless of attendance in Zoom and regardless of how high/low your productivity was for the day.\n\nLink to EOD Call:\n<https://us02web.zoom.us/j/87914873931>\n\nWeekly Reviews would be conducted at 7.30 PM every Tuesday\n<https://us02web.zoom.us/j/85188928844>\n\nYou will have to submit a Google Form report every week at:\n<http://weekly.coronasafe.in|weekly.coronasafe.in>\nThe weekly report will be required for you to be considered active for the internship.",
+            "user": "UV5PPBE2D",
+            "ts": "1652193785.039269",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Nvn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "GDC Internship Format:\n\nEOD Calls will be conducted every day at 7.30 over Zoom:\n\nEveryone should update their EOD Updates on this slack channel regardless of attendance in Zoom and regardless of how high/low your productivity was for the day.\n\nLink to EOD Call:\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://us02web.zoom.us/j/87914873931"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nWeekly Reviews would be conducted at 7.30 PM every Tuesday\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://us02web.zoom.us/j/85188928844"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nYou will have to submit a Google Form report every week at:\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "http://weekly.coronasafe.in",
+                                    "text": "weekly.coronasafe.in"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nThe weekly report will be required for you to be considered active for the internship."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "pinned_to": [
+                "C02U0A47JUQ"
+            ],
+            "pinned_info": {
+                "channel": "C02U0A47JUQ",
+                "pinned_by": "UV5PPBE2D",
+                "pinned_ts": 1652193788
+            }
+        }
+    ],
+    "2023-06-02 00:00:00": [
+        {
+            "client_msg_id": "a34468dd-371e-493d-8af8-74b4d58a98de",
+            "type": "message",
+            "text": "<!subteam^S054S77KR6E|@gdc_students> Missing all of your EODs",
+            "user": "UV5PPBE2D",
+            "ts": "1685691327.558689",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9k1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S054S77KR6E"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Missing all of your EODs"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
+    ],
+    "2023-08-07 00:00:00": [
+        {
+            "client_msg_id": "b1edb002-62be-4d1f-978d-ff6b77b4dc05",
+            "type": "message",
+            "text": "<!subteam^S054S77KR6E|@gdc_students> Missing your EOD Updates",
+            "user": "UV5PPBE2D",
+            "ts": "1691386605.853919",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "DIK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S054S77KR6E"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Missing your EOD Updates"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
+    ],
+    "2024-10-28 00:00:00": [
+        {
+            "subtype": "channel_join",
+            "user": "UV5PPBE2D",
+            "text": "<@UV5PPBE2D> has joined the channel",
+            "type": "message",
+            "ts": "1730105033.707979"
+        }
+    ],
+    "2024-11-12 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1731432430.262639",
+            "edited": {
+                "user": "UV5PPBE2D",
+                "ts": "1731432487.000000"
+            },
+            "client_msg_id": "043910f8-676d-49bf-93b3-b961d25c6285",
+            "text": "*12 Nov 2024*\n*Done*\n\u2022 Attend Day 2 of Web Summit 2024, Lisbon :slightly_smiling_face: \n\u2022 Sync with <@UC99MFPU1> on Care & Medispeak\n\u2022 <https://360.neemhealth.app/|neemhealth.app> has pushed their integration of Medispeak to Production :marioluigidancing:; Configured Medispeak to enable support for the new production deployment site\n\u2022 Clear Conflicts for the Microfrontend WIP with develop, and progressed a bit on it configuring typescript core references\n\u2022 Sync with <@U01196FB51P> on handover and replacement\n*Next*\n\u2022 Complete a PoC for Microfrontends\n\u2022 Explore a bit more implementing unit tests for Care",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "5upa0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12 Nov 2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attend Day 2 of Web Summit 2024, Lisbon "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "slightly_smiling_face",
+                                            "unicode": "1f642"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UC99MFPU1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on Care & Medispeak"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://360.neemhealth.app/",
+                                            "text": "neemhealth.app",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " has pushed their integration of Medispeak to Production "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "marioluigidancing"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "; Configured Medispeak to enable support for the new production deployment site"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Clear Conflicts for the Microfrontend WIP with develop, and progressed a bit on it configuring typescript core references"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U01196FB51P"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on handover and replacement"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete a PoC for Microfrontends"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explore a bit more implementing unit tests for Care"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-13 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1731526061.490529",
+            "client_msg_id": "D84FEC4A-76A4-4C4D-929B-DED915BD7C3E",
+            "text": "13th November\nDone\n\u2022 Attend Day 2 of Web Summit 2024\n\u2022 Network with the founder of <http://doc.ua|doc.ua>\nfrom Ukraine\n\u2022 Network with a Consultant working with raising EU Grants\n\u2022 Met with Alexander Pak from TMT\nInvestments\n\u2022 Sync with Srikanth &amp; Sujatha(Finance)\nUp Next\n\u2022 Pending pieces on Microfrontends &amp;\nUnit Tests",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "exq7c",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13th November\nDone\n\u2022 Attend Day 2 of Web Summit 2024\n\u2022 Network with the founder of "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "http://doc.ua",
+                                    "text": "doc.ua"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nfrom Ukraine\n\u2022 Network with a Consultant working with raising EU Grants"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Met with Alexander Pak from TMT"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Investments"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Srikanth & Sujatha(Finance)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pending pieces on Microfrontends &"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Unit Tests"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-15 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1731629380.852859",
+            "client_msg_id": "E704666D-554E-4BED-A682-6E588DA60762",
+            "text": "14th Nov\n\nDone:\n\u2022 Attend Day 3, Web Summit 2024\n\u2022 Slow Day, didn\u2019t really get much done\n\u2022 Meet with a few folks building products in Healthcare\n\u2022 Join in on the call with Bodhi, to call off hiring Ankur\n\u2022 Attended a session on AI related investments of State Funds like QIA\nUp Next:\n\u2022 Microfrontends/Unit Tests\n\u2022 Plan my last day in Lisbon before going to Rome",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zfqpx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14th Nov\n\nDone:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attend Day 3, Web Summit 2024"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Slow Day, "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "didn\u2019t"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " really get much done"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Meet with a few folks building products in Healthcare"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Join in on the call with Bodhi, to call off hiring Ankur"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended a session on AI related investments of State Funds like QIA"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Microfrontends/Unit Tests"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Plan my last day in Lisbon before going to Rome"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-21 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1732182659.496599",
+            "client_msg_id": "1731f909-ca27-4ba8-841f-06b1bed6a994",
+            "text": "18th Nov - On Leave\n\u2022 Few Conversations regarding Product Team Transitions\n\u2022 Watercooler: Explore the ruins of the Roman Empire | Damn that was crazy \n19th Nov - On Leave\n\u2022 Talk to Srikanth regarding HMIS Discussions\n\u2022 Watercooler: Travel from Rome to Lisbon\n20th Nov - On Leave\n\u2022 Manage to get the use of Shared Core Components to work in Microfrontends to work\n\u2022 Watercooler: Travel from Lisbon - Abu Dhabi - Kochi\n\u2022 If you're in Kochi and you wanna try some Italian Chocolates/Cheeses, drop by :slightly_smiling_face: \nUp Next:\n\u2022 Catch up on all things that's been stuck on me.\n\u2022 Feel free to holler if you have anything stuck on me. React to this message if you've read this.\n\u2022 Wrap up Microfrontends/Unit Tests",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732182659.496599",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1732199479.208609",
+            "reply_users": [
+                "UC99MFPU1"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9SCik",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18th Nov - On Leave\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few Conversations regarding Product Team Transitions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Watercooler: Explore the ruins of the Roman Empire | Damn that was crazy "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n19th Nov - On Leave\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Talk to Srikanth regarding HMIS Discussions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Watercooler: Travel from Rome to Lisbon"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n20th Nov - On Leave\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Manage to get the use of Shared Core Components to work in Microfrontends to work"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Watercooler: Travel from Lisbon - Abu Dhabi - Kochi"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "If you're in Kochi and you wanna try some Italian Chocolates/Cheeses, drop by "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "slightly_smiling_face",
+                                            "unicode": "1f642"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nUp Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Catch up on all things that's been stuck on me."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Feel free to holler if you have anything stuck on me. React to this message if you've read this."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrap up Microfrontends/Unit Tests"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "chocolate_bar",
+                    "users": [
+                        "U06CY7RUZ9S",
+                        "U07NXCASM89",
+                        "U02TB83Q5V0",
+                        "U07RV1ENQCC",
+                        "UC8TSEGCQ",
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 6
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1",
+                        "U0576PEACG0",
+                        "U01JB8L8P7Y",
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 4
+                }
+            ]
+        }
+    ],
+    "2024-11-22 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1732284564.945539",
+            "client_msg_id": "39a46f4d-5027-4999-ab0e-0452bcad2dfe",
+            "text": "22 November\nDone | Just a few calls and some brainstorming\n\u2022 Sync with Bodhi/Vignesh on FHIR\n\u2022 Sync with Bodhi/Vinu on Labs UX\n\u2022 Connect with someone at AsterLabs to get Reference Screenshots\n\u2022 Call with Uday/Bodhi/Khavin on the Doctor Notes Enhancement PR\n\u2022 Sync with Aravind/Bodhi on Product/Documentation Intern Hiring\n\u2022 Find a connect in Placement Cell for Product Internship Drive\n\u2022 Sync with Nihal/Bodhi on QA Intern Hiring\n\u2022 Sync with Bodhi on Reconsidering Shared Components for Microfrontends\nUp Next/Pending:\n\u2022 Make progress on Microfrontends/Unit Tests",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "B0Y2e",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22 November\nDone | Just a few calls and some brainstorming\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Bodhi/Vignesh on FHIR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Bodhi/Vinu on Labs UX"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Connect with someone at AsterLabs to get Reference Screenshots"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Uday/Bodhi/Khavin on the Doctor Notes Enhancement PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Aravind/Bodhi on Product/Documentation Intern Hiring"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Find a connect in Placement Cell for Product Internship Drive"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Nihal/Bodhi on QA Intern Hiring"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Bodhi on Reconsidering Shared Components for Microfrontends"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nUp Next/Pending:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make progress on Microfrontends/Unit Tests"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1732246723.740889",
+            "client_msg_id": "ccb3fb1f-56f9-4372-ab69-749123626234",
+            "text": "21 Nov 2024\n\u2022 Catching Up with Slack &amp; Other Activities\n\u2022 Few calls on FHIR and GSoC PRs\n\u2022 Partially Review Cloud Costs\nUp Next:\n\u2022 Wrap up Microfrontends\n\u2022 Pending: Review Unit Tests Setup",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "yCcuP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21 Nov 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Catching Up with Slack & Other Activities"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few calls on FHIR and GSoC PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Partially Review Cloud Costs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nUp Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrap up Microfrontends"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pending: Review Unit Tests Setup"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-26 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1732587520.206369",
+            "client_msg_id": "9223BCFA-3952-48C0-8DC1-D27065226FDD",
+            "text": "November 25\nDone\n\u2022 Review Product Intern Task and Role from Aravind\n\u2022 Sync with Bodhi on micro frontend changes\n\u2022 Ship out a PoC for Microfrontends in Care_fe with bidirectional component sharing\nNext\n\u2022 Trip to Calicut for the Palliative Care Meeting\n\u2022 Document migration guide from earlier implementation of Care Plugins(This is mostly going to be just switching to lazy imports for all components from core)\n\u2022 Transition the existing Care Plugins setup to Microfrontends",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1XIaP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "November 25"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review Product Intern Task and Role from "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Aravind"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Bodhi"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on micro frontend changes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ship out a PoC for Microfrontends in Care_fe with bidirectional component sharing"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Trip to "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Calicut for the Palliative Care Meeting"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Document migration guide from earlier implementation of Care Plugins(This is mostly going to be just switching to lazy imports for all components from core)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Transition the existing Care Plugins setup to Microfrontends"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-27 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1732688575.430849",
+            "client_msg_id": "e6b11893-0881-4cbe-8537-420ffd785540",
+            "text": "November 26\n\u2022 Travel for the meeting\n\u2022 Support Bodhi for Care Demo @ Kozhikode Corporation \n\u2022 Figuring out other challenges as I migrate the livekit plugin to Microfrontends\nNext\n\u2022 Figuring out lazy import of hooks from Core to MicroFrontends\n\u2022 Migrate the livekit plugin to microfrontend\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Kfl3B",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "November 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Travel for the meeting"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Support Bodhi for Care Demo @ Kozhikode Corporation "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Figuring out other challenges as I migrate the livekit plugin to Microfrontends"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Figuring out lazy import of hooks from Core to MicroFrontends"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Migrate the livekit plugin to microfrontend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "fire",
+                    "users": [
+                        "U02D0NA6RHR"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-28 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1732824427.072319",
+            "client_msg_id": "B953C172-9DB5-4C0F-BED5-79F67FF52BCE",
+            "text": "November 28\n\nDone:\n\u2022 Exploring Office Options with Bodhi/Aravind\n\u2022 Read some literature on shared components in microfrontends, realised it\u2019s an antipattern that\u2019s better avoided\n\u2022 Play around with Care Copilot with a realistic differential diagnosis case.\nNext\n\u2022 Migrate the livekit plugin to microfrontend",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/gYa7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "November 2"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "8\n\nDone:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Exploring Office Options with Bodhi"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "/"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Aravind"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Read some literature on shared components in microfrontends, realised "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "it\u2019s"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " an antipattern "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "that\u2019s"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " better avoided"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Play around with Care Copilot with a realistic differential diagnosis case."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Migrate the livekit plugin to microfrontend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-03 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1733198962.239609",
+            "client_msg_id": "4ac6bd3c-048a-4d11-82b6-c660efd3045c",
+            "text": "*2nd December*\n\u2022 Making Progress on CareLivekit refactor\n\u2022 Long Meeting with Doctors/Arike Team\n\u2022 Release a Quick Update to Medispeak\n*Up Next*\n\u2022 Wrap up the Livekit Plugin as a Microfrontend\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FCeC5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "2nd December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Making Progress on CareLivekit refactor"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Long Meeting with Doctors/Arike Team"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Release a Quick Update to Medispeak"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Up Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrap up the Livekit Plugin as a Microfrontend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-04 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1733290815.354309",
+            "client_msg_id": "41a302db-8c65-4d76-a988-7cabd8ba83f0",
+            "text": "*December 3*\n*Done*\n\u2022 Worked on a few updates for Medispeak\n\u2022 Work on MFE, Not happy with the amount of Code I have to bring in from the Core. \n\u2022 Meeting with Finance on Fundraising\n\u2022 Few open threads with Aravind, Bodhi and a few other people.\n*Next*\n\u2022 Continue work on MFE, I might just call it a day and wrap it up, even though I don't like the way it looks. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "i7SsA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 3",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on a few updates for Medispeak"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on MFE, Not happy with the amount of Code I have to bring in from the Core. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Meeting with Finance on Fundraising"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few open threads with Aravind, Bodhi and a few other people."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on MFE, I might just call it a day and wrap it up, even though I don't like the way it looks. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-05 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1733376313.319379",
+            "client_msg_id": "2f5bd382-e4c7-418f-9735-75b5f712aadd",
+            "text": "*4th December*\nDone:\n\u2022 Refactored the CareLivekit Plugin to work with MFE targetting ES2022\n\u2022 Broke the CareLivekit Plugin trying to polyfill and avoid top-level await, and broke the working build. Hate myself for not committing the working build\n\u2022 Trying to get the Barcode Printer/Scanner work with <@UC99MFPU1> and <@U02D0NA6RHR> \n\u2022 Sync with Bodhi on Release plans for FHIR Forms Refactor\n*Up Next*\n\u2022 Continue working on the example Plugin",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sAsuP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactored the CareLivekit Plugin to work with MFE targetting ES2022"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Broke the CareLivekit Plugin trying to polyfill and avoid top-level await, and broke the working build. Hate myself for not committing the working build"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Trying to get the Barcode Printer/Scanner work with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UC99MFPU1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02D0NA6RHR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Bodhi on Release plans for FHIR Forms Refactor"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Up Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue working on the example Plugin"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-09 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1733722252.967209",
+            "edited": {
+                "user": "UV5PPBE2D",
+                "ts": "1733722386.000000"
+            },
+            "client_msg_id": "b5e7ddba-5889-42f1-b969-e6c324b2accf",
+            "text": "Dec 5th/6th\nDone:\n\u2022 Continuing to work with MFEs\n\u2022 Everything seems to be working well post removing the Custom Build Configurations\n\u2022 Refactored CareLivekit FE to work with Microfrontends\n\u2022 Update Build Scripts for MFEs\n\u2022 Solve Merge Conflicts\n\u2022 Work with Bodhi on some type issues in FHIR Forms\n\u2022 Few Other Calls/Discussions\nUp Next\n\u2022 Switch to FHIR Forms, figure out API calls for Structured Data fields\n\u2022 Look into Optimizing MFEs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+/LZJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 5th/6th\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continuing to work with MFEs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Everything seems to be working well post removing the Custom Build Configurations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactored CareLivekit FE to work with Microfrontends"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update Build Scripts for MFEs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solve Merge Conflicts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work with Bodhi on some type issues in FHIR Forms"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few Other Calls/Discussions"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nUp Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Switch to FHIR Forms, figure out API calls for Structured Data fields"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look into Optimizing MFEs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-10 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1733805755.444789",
+            "client_msg_id": "a72def1d-f16f-40fe-a93f-44f7db296c36",
+            "text": "9 December 2024\nDone:\n\u2022 Exploring Snowstorm\n\u2022 Review Palliative Care Cloud Cost\n\u2022 Partially Review Bodhi's FHIR PR\n\u2022 Sync with Aravind on Creating the next version of Care Manual\n\u2022 Discussion with Bodhi on Implementation of Questionnaire\nUp Next\n\u2022 Exploring further on Snowstorm\n\u2022 Cleanup MFE\n\u2022 Followup with <@U02TB8XHZD1> on Migration Plan",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Rho1q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "9 December 2024\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Exploring Snowstorm"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review Palliative Care Cloud Cost"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Partially Review Bodhi's FHIR PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Aravind on Creating the next version of Care Manual"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Bodhi on Implementation of Questionnaire"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nUp Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Exploring further on Snowstorm"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleanup MFE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followup with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TB8XHZD1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on Migration Plan"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-11 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1733898376.927799",
+            "client_msg_id": "d9899047-d7c7-4232-970d-c6124dc3098c",
+            "text": "10th December 2024\nDone:\n\u2022 Merged MFE to the FHIR Base Branch\n\u2022 Build out Conditions in Questionnaires\n\u2022 Discussions with Bodhi Questionnaires\n\u2022 Exploring ICD10 &amp; ICD11 Resources\n\u2022 Found the ICD10/11 Bidirectional Maps\n\u2022 Followup with <@U02TB8XHZD1> on Migration Plan\nUp Next\n\u2022 Followup further with <@U02TB8XHZD1> on Migration Plan\n\u2022 Sync with Aravind on Care Manual\n\u2022 Few fixes on Questionnaires\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "oKriG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10th December 2024\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged MFE to the FHIR Base Branch"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Build out Conditions in Questionnaires"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussions with Bodhi Questionnaires"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Exploring ICD10 & ICD11 Resources"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Found the ICD10/11 Bidirectional Maps"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followup with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TB8XHZD1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on Migration Plan"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nUp Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followup further with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TB8XHZD1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on Migration Plan"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Aravind on Care Manual"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few fixes on Questionnaires"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-13 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1734077249.661949",
+            "edited": {
+                "user": "UV5PPBE2D",
+                "ts": "1734077309.000000"
+            },
+            "client_msg_id": "0eb26049-757f-48de-852f-a05efdfddd6e",
+            "text": "Dec 12th\nDone:\n\u2022 Attend the SNOMED Meeting on the Usage Report, \n\u2022 Drop support for Principal Diagnosis in Conditions\n\u2022 Few other changes on Questionnaires\n\u2022 Managed to get Snowstorm to build. Kudos to <@UC8TSEGCQ>  on managing to learn Java and do it last week\nNext:\n\u2022 Continue working on Questionnaires\n\u2022 Get the MVP for Palliative Demo out.\n\u2022 Review Unit Tests by <@U06L50QL1AQ> ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "k/Wv6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 12th\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attend the SNOMED Meeting on the Usage Report, "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Drop support for Principal Diagnosis in Conditions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few other changes on Questionnaires"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Managed to get Snowstorm to build. Kudos to "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UC8TSEGCQ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  on managing to learn Java and do it last week"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue working on Questionnaires"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get the MVP for Palliative Demo out."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review Unit Tests by "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U06L50QL1AQ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-17 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1734421149.083469",
+            "client_msg_id": "e300c54f-7545-4b74-8f45-1cc69a4befe0",
+            "text": "Dec 16th\nDone:\n\u2022 Travel to Kozhikode for the Palliative Meeting\n\u2022 Bugfixes and updates for the Palliative Demo\n\u2022 WIP: Support for creating Encounters in Questionnaire\nNext:\n\u2022 Ship out out support for Encounters in Questionnaires",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UdQHX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 16th\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Travel to Kozhikode for the Palliative Meeting"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Bugfixes and updates for the Palliative Demo"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "WIP: Support for creating Encounters in Questionnaire"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ship out out support for Encounters in Questionnaires"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-20 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1734668981.127589",
+            "client_msg_id": "df2e8e42-41be-4ace-abd2-08e5fc159f2d",
+            "text": "December 18th\n\u2022 Travelling / Meetings\n\u2022 Ship out the Appointments UI \nDecember 19th\n\u2022 Slow day\n\u2022 Review Costing sheets\n\u2022 Read up on a few compliances\n\u2022 Review a few PRs\n\u2022 Catching up on Slack\n\u2022 Sync with Neil on Data Migration Mapping\nNext\n\u2022 Review items stuck on me\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0ulvS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 18th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Travelling / Meetings"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ship out the Appointments UI "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 19th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Slow day"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review Costing sheets"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Read up on a few compliances"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review a few PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Catching up on Slack"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Neil on Data Migration Mapping"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review items stuck on me"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-24 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1735007282.183409",
+            "client_msg_id": "62d177fb-773e-45bb-a51e-0dc8adcc892c",
+            "text": "December 23\n_Slow day_\n\u2022 Reviewed a few PRs\n\u2022 HMIS Review with Srikanth\n_Up Next_\n\u2022 Cleanup Encounter workflow in Questionnaires",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ycZfm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 23\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Slow day",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed a few PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "HMIS Review with Srikanth"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleanup Encounter workflow in Questionnaires"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-27 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1735277428.847539",
+            "client_msg_id": "CDF1AB83-E280-4C1D-AE28-FF41358F2F68",
+            "text": "26th December 2024\n\u2022 Work in Org Selector, few other pieces\n\u2022 Create Nurse Assessment Form for Palliative Care\nNext\n\u2022 Cleanup Nurse Assessment Form",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/NqCr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26th December 2024"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work in Org Selector, few other pieces"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create Nurse Assessment Form for Palliative Care"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleanup Nurse Assessment Form"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-02 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1735791435.020699",
+            "client_msg_id": "6255ca56-4e55-40cf-8ddb-17246e8f75e5",
+            "text": "Dec 30/31\n\u2022 Few calls with KL Govt\n\u2022 Discussions with Bodhi/Vignesh on Migrations &amp; New Models\n\u2022 Few other Calls\n\u2022 Wire a few APIs\n\u2022 Cleanup some pieces in Care\nUp Next:\n\u2022 Review Scribe Implementation\n\u2022 Create test flow for KA Demo(Jan 3)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XxJiD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 30/31\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few calls with KL Govt"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussions with Bodhi/Vignesh on Migrations & New Models"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few other Calls"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wire a few APIs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleanup some pieces in Care"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review Scribe Implementation"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create test flow for KA Demo(Jan 3)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-01-07 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1736218566.667529",
+            "edited": {
+                "user": "UV5PPBE2D",
+                "ts": "1736218584.000000"
+            },
+            "client_msg_id": "b85122fc-f5a6-4b1f-9de8-87f235bf1f76",
+            "text": "Jan 6\nDone:\n\u2022 Fix up a few Questionnaires\n\u2022 Review Doc for Data Migration\n\u2022 WIP: Work on the Routers in Care\n\u2022 Refactor enableWhen in Questionnaires\nNext:\n\u2022 Complete the half-baked stuff I've been working on",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hRs5c",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Jan 6\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix up a few Questionnaires"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review Doc for Data Migration"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "WIP: Work on the Routers in Care"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactor enableWhen in Questionnaires"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete the half-baked stuff I've been working on"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-01-08 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1736315208.945239",
+            "client_msg_id": "8eaafc08-b7f6-485d-872a-0757218f7702",
+            "text": "Jan 7th\n\u2022 Partially Cleanup Public Router\n\u2022 Few Updates on Questionnaires\n\u2022 Few Calls/Discussions\nNext:\n\u2022 A little vague",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/ugIj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Jan 7th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Partially Cleanup Public Router"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few Updates on Questionnaires"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few Calls/Discussions"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "A little vague"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-02-07 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1738896310.436479",
+            "client_msg_id": "A27E40CB-014F-42D4-9981-D6B38952B156",
+            "text": "Feb 5-6\n\nDone\n\u2022 Built out Location Assignment via Questionnaires\n\u2022 Cleaned up Types in Questionaires\n\u2022 Few calls on future implementations.\n\u2022 Call to introduce the eGov digit team to Care\n\u2022 Few other reviews\nUp Next\n\u2022 Excited that Device is now out! \n\u2022 Plan out bringing in the remaining features ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "VmDk7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Feb 5-6\n\nDone"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built out Location Assignment via Questionnaires"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleaned up Types in Questionaires"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few calls on future implementations."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call to introduce the eGov digit team to Care"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few other reviews"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nUp Next"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Excited that Device is now out! "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Plan out bringing in the remaining features "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U07NXCASM89",
+                        "UC99MFPU1"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
+    ],
+    "2025-02-11 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1739260045.709469",
+            "client_msg_id": "34d81ade-741d-484f-af7c-7bf425511110",
+            "text": "*10 Feb 2024*\n\u2022 Start working on Valuesets\n\u2022 Submit GSoC Org Application for Medispeak\n\u2022 Finalise GSoC Project List for Medispeak\nNext:\n\u2022 Finish up on Valuesets UI",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "E1uM3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10 Feb 2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Start working on Valuesets"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Submit GSoC Org Application for Medispeak"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalise GSoC Project List for Medispeak"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finish up on Valuesets UI"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "marioluigidancing",
+                    "users": [
+                        "U02D0NA6RHR"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-02-25 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1740507907.955459",
+            "client_msg_id": "E72F5E06-246A-44F3-8F7A-DC4F4C7E50F7",
+            "text": "25 Feb 2025\n\n\u2022 Sync call with eGov, Klarity and Trustt on CAG\n\u2022 Missed renewing the ohc domain :smiling_face_with_tear: \n\u2022 Brainstorm with Bodhi on Offline Support\n\u2022 Read a bit on Tool Calling and Structured Responses\n\u2022 Review Cloud and AI Costing on Azure\n\u2022 Call Regarding a Potential CSR funding\n\u2022 Read on running Local LLMs with OpenLLM, might try this with Cursor, very interested to see how this would work when offline",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EF62x",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Feb 2025\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync call with eGov, Klarity and Trustt on CAG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Missed renewing the ohc domain "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "smiling_face_with_tear",
+                                            "unicode": "1f972"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Brainstorm with Bodhi on Offline Support"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Read a bit on Tool Calling and Structured Responses"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review Cloud and AI Costing on Azure"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call Regarding a Potential CSR funding"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Read on running Local LLMs with OpenLLM"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", might try this with Cursor, very interested to see how this would work when offline"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-26 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1742983286.134149",
+            "client_msg_id": "cedddea1-b6ba-42d0-933a-17a9625d05a7",
+            "text": "EOD 24 March:\n\u2022 Created a PoC for Multi-Org Selector\n\u2022 Reviewed a few PRs\n\u2022 Call with NCG On Implementation Workflow\nEOD 25 March:\n\u2022 Call with Srikanth/Sujatha/Bodhi etc on ACT Proposal\n\u2022 Call with Sujatha/Bisoya/Bodhi on ACT Proposal\n\u2022 Draft CARE related section for Proposal for ACT\n\u2022 Call with Clinical Team on Forms\n\u2022 Quick Sync with Vignesh on Generation of Questionnaire Responses for Structured\nWhat's next:\n\u2022 Collect Feedback from Manipur regarding the preview instance\n\u2022 Clear all dependencies for Manipur Migration",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tMYle",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 24 March:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a PoC for Multi-Org Selector"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed a few PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with NCG On Implementation Workflow"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nEOD 25 March:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Srikanth/Sujatha/Bodhi etc on ACT Proposal"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Sujatha/Bisoya/Bodhi on ACT Proposal"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Draft CARE related section for Proposal for ACT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Clinical Team on Forms"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Quick Sync with Vignesh on Generation of Questionnaire Responses for Structured"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nWhat's next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Collect Feedback from Manipur regarding the preview instance"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Clear all dependencies for Manipur Migration"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-29 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1743221895.649889",
+            "edited": {
+                "user": "UV5PPBE2D",
+                "ts": "1743221939.000000"
+            },
+            "client_msg_id": "37860041-2289-4b85-9545-520d43c19e0d",
+            "text": "EOD 26 March:\n\u2022 Sync with Aravind regarding updates on Keralacare Implementatino\n\u2022 Glance through Billing related Spec in Notion\n\u2022 Follow up on Multi-Org Selector with <@U082V68AJ10> \n\u2022 Sync with Sujatha\n\u2022 Follow up regarding Manipur Preview\n\u2022 Create action items to be covered pre Manipur Migration\n27 March:\n\u2022 Call with NCG \n\u2022 Calls regarding Migrations\n\u2022 Follow up on Migrations related TODOs\n28th March\n\u2022 Few Calls regarding HMIS Implementation in Karnataka\n\u2022 Worked on the Proposal Financials\n\u2022 Stuck at Home with an AC Installation. Took the whole day to happen. Fairly aesthetic end result though. \nWhat's next:\n\u2022 Clear all dependencies for Manipur Migration\n\u2022 Finalise the ACT Proposal",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "O4mlo",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 26 March:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Aravind regarding updates on Keralacare Implementatino"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Glance through Billing related Spec in Notion"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up on Multi-Org Selector with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U082V68AJ10"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Sujatha"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up regarding Manipur Preview"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create action items to be covered pre Manipur Migration"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n27 March:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with NCG "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Calls regarding Migrations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up on Migrations related TODOs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n28th March\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few Calls regarding HMIS Implementatio"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "n in Karnataka"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the Proposal Financials"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Stuck at Home with an AC Installation. Took the whole day to happen. Fairly aesthetic end result though. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nWhat's next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Clear all dependencies for Manipur Migration"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalise the ACT Proposal"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-04-07 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1744009442.382429",
+            "client_msg_id": "106b5f4e-9e60-46f0-bf5b-cca6e634c82e",
+            "text": "3 Apr 2024\n\u2022 Travel to Bangalore for GitHub Event\n\u2022 Attend AMA with Kyle Daigle\n\u2022 Witness the epic Fanboy Moment\n\u2022 Meeting for Forms for 10BedICU\n4 Apr 2024 | On Sick Leave\n\u2022 Return from Bangalore\n\u2022 Few Meetings related to Manipur Migration/Release\n\u2022 Work with Khavin on few issues on the ABDM Setup in Karnataka\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "97SAa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3 Apr 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Travel to Bangalore for GitHub Event"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attend AMA with Kyle Daigle"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Witness the epic Fanboy Moment"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Meeting for Forms for 10BedICU"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n4 Apr 2024 | On Sick Leave\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Return from Bangalore"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few Meetings related to Manipur Migration/Release"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work with Khavin on few issues on the ABDM Setup in Karnataka"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-04-16 00:00:00": [
+        {
+            "user": "UV5PPBE2D",
+            "type": "message",
+            "ts": "1744775434.516569",
+            "client_msg_id": "6e19d29c-245f-4802-b0bf-5444f6016f1b",
+            "text": "15 April\n\u2022 Prep for NCG for Koita Foundation, Create Sample Data &amp; Script\n\u2022 Demo with Rizwan Koita - Koita's take on CARE \"CARE is a generation ahead of other EMRs in India, if not 2 or 3 generations.\n\u2022 Play around with react-select seeing if the newly published version has solved the issues; sadly not.\n\u2022 Work with Nihal/Bodhi on Categorizing/Assigning GSoC proposals for reviews\n\u2022 Created a draft Script for Creating a Demo Video for the UN DPI Event.\nNext:\n\u2022 Get the Migrations out in Manipur. (This has been going on for way too long).\n\u2022 Ship the Demo Video",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JCNNm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15 April\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Prep for NCG for Koita Foundation, Create Sample Data & Script"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Demo with Rizwan Koita - Koita's take on CARE \"CARE is a generation ahead of other EMRs in India, if not 2 or 3 generations."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Play around with react-select seeing if the newly published version has solved the issues; sadly not."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work with Nihal/Bodhi on Categorizing/Assigning GSoC proposals for reviews"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a draft Script for Creating a Demo Video for the UN DPI Event."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get the Migrations out in Manipur. (This has been going on for way too long)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ship the Demo Video"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U082GUAL80N"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}
