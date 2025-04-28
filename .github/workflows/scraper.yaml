@@ -62,8 +62,7 @@ jobs:
         working-directory: scraper
         env:
           GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
-          # Temporarily disabled until project access is fixed
-          # PROJECTS_BOARD_ID: ${{ inputs.projects-board-id }}
+          PROJECTS_BOARD_ID: ${{ inputs.projects-board-id }}
 
       - uses: actions/setup-python@v3
         with:
