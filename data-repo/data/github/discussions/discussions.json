@@ -2,7 +2,7 @@
     {
         "source": "github",
         "title": "v24.31.0",
-        "text": "## What's Changed\r\n* add notifications for file upload , prescription  by @rash-27 in https://github.com/ohcnetwork/care/pull/2070\r\n* Adds support for phone number in HCX Create Patient Profile by @rithviknishad in https://github.com/ohcnetwork/care/pull/2319\r\n* HCX: Adds \"use\" in patient profile's telecom by @rithviknishad in https://github.com/ohcnetwork/care/pull/2321\r\n* Adds a last online filter for users by @skks1212 in https://github.com/ohcnetwork/care/pull/2310\r\n* Merge Develop to Staging v24.31.0 by @nihal467 in https://github.com/ohcnetwork/care/pull/2322\r\n* Fix Scribe on iOS by @skks1212 in https://github.com/ohcnetwork/care/pull/2323\r\n* HCX: Fix payor search filtering and claim supporting info category URL by @rithviknishad in https://github.com/ohcnetwork/care/pull/2325\r\n* Merge Develop to Staging v24.31.0 | Minor Fix  by @nihal467 in https://github.com/ohcnetwork/care/pull/2326\r\n* Production release v24.31.0 by @sainak in https://github.com/ohcnetwork/care/pull/2327\r\n\r\n\r\n**Full Changelog**: https://github.com/ohcnetwork/care/compare/v24.30.0...v24.31.0\n\n<hr /><em>This discussion was created from the release <a href='https://github.com/ohcnetwork/care/releases/tag/v24.31.0'>v24.31.0</a>.</em>",
+        "text": "## What's Changed\r\n* ",
         "author": "AlexG",
         "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions",
         "isAnswered": null,
