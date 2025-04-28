@@ -56,13 +56,14 @@ jobs:
         with:
           app-id: ${{ secrets.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
-
+          
       - name: Scrape data from GitHub
         run: pnpm start openfoodfacts ../../data/github
         working-directory: scraper
         env:
           GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
-          PROJECTS_BOARD_ID: ${{ inputs.projects-board-id }}
+          # Temporarily disabled until project access is fixed
+          # PROJECTS_BOARD_ID: ${{ inputs.projects-board-id }}
 
       - uses: actions/setup-python@v3
         with:
