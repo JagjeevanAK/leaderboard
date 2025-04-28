@@ -51,12 +51,11 @@ jobs:
         working-directory: scraper
 
       - name: Generate GitHub App token
-        uses: peter-evans/create-github-app-token@v3
+        uses: actions/create-github-app-token@v2
         id: generate_token
         with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.APP_PRIVATE_KEY }}
-          installation_id: ${{ secrets.INSTALLATION_ID }}
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
 
       - name: Scrape data from GitHub
         run: pnpm start openfoodfacts ../../data/github
