@@ -10,12 +10,15 @@
 
 const { join } = require("path");
 const { writeFile, mkdir, readFile } = require("fs/promises");
+const dotenv = require('dotenv');
+dotenv.config({ path: '.env.local' });
+dotenv.config();
 const { Octokit } = require("octokit");
 
 const basePath = join(process.env.DATA_REPO || process.cwd(), "data/github");
 console.info(`Data will be written to: '${basePath}'`);
 
-const org = process.env.GITHUB_ORG;
+const org = process.env.GITHUB_ORG || process.env.NEXT_PUBLIC_GITHUB_ORG;
 const token = process.env.GITHUB_TOKEN;
 
 if (!org) {
