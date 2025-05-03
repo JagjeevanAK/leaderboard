@@ -1,19 +1,19 @@
 {
-  "last_updated": "2024-07-22T08:33:02Z",
+  "last_updated": "2025-04-28T14:26:41.000Z",
   "activity": [
     {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10573",
-      "time": "2024-07-22T08:33:02Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10573",
-      "text": "taxonomy: Add “akaciefiber” synonym (Swedish)"
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11830",
+      "time": "2025-04-28T14:26:41.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11830",
+      "text": "Demote products from vegan/vegetarian/palm-oil-free if they have ingredients specifically contradicting this"
     },
     {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10573",
-      "time": "2024-07-22T12:35:08Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10573",
-      "text": "taxonomy: Add “akaciefiber” synonym (Swedish)"
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11827",
+      "time": "2025-04-28T12:47:19.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11827#issuecomment-2835131791",
+      "text": "Were all the removals intentional?"
     },
     {
       "type": "pr_opened",
