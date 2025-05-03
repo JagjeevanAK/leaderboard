@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.GIT_ACCESS_TOKEN }}
       - uses: actions/checkout@v4
         with:
-          repository: ohcnetwork/leaderboard
+          repository: JagjeevanAK/leaderboard
           path: ./leaderboard
           ref: ${{ inputs.leaderboard_ref }}
           sparse-checkout: |
@@ -62,7 +62,7 @@ jobs:
         working-directory: scraper
         env:
           GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
-          PROJECTS_BOARD_ID: ${{ inputs.projects-board-id }}
+          # PROJECTS_BOARD_ID: ${{ inputs.projects-board-id }}
 
       - uses: actions/setup-python@v3
         with:
