@@ -58,7 +58,7 @@ jobs:
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
           
       - name: Scrape data from GitHub
-        run: pnpm start openfoodfacts ../../data/github --date 2025-05-04 --numDays 365
+        run: pnpm start openfoodfacts ../../data/github --numDays 365
         working-directory: scraper
         env:
           GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
