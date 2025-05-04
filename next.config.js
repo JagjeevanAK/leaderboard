@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
+  staticPageGenerationTimeout: 120,
   images: {
     unoptimized: true,
     remotePatterns: [
