@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-05-03T12:57:42.000Z",
+  "last_updated": "2025-05-03T20:18:48.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/smooth-app#6577",
+      "time": "2025-05-03T20:18:48.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6577",
+      "text": "Robotoff questions in editing (part 2) for packaging"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/hunger-games#1174",
+      "time": "2025-05-03T19:56:48.000Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1174#issuecomment-2848783106",
+      "text": "It's the GitHub security LLM. We can probably silence it @alexfauquette "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11367",
+      "time": "2025-05-03T16:38:30.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11367",
+      "text": "taxonomy: Translations for the nutrient levels taxonomy",
+      "turnaround_time": 6933276
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T13:46:07.000Z",
+      "title": "openfoodfacts/hunger-games#1105",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1105#pullrequestreview-2813237069",
+      "text": "WIP graph explorer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T13:43:40.000Z",
+      "title": "openfoodfacts/hunger-games#1106",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1106#pullrequestreview-2813236602",
+      "text": "test first UI for spell check"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#6494",
+      "time": "2025-05-03T13:37:58.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6494",
+      "text": "Issues in bulk"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#3420",
+      "time": "2025-05-03T13:35:05.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/3420#issuecomment-2848631624",
+      "text": "same thing here @g123k \n- related to #3870 "
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#3870",
+      "time": "2025-05-03T13:30:12.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/3870#issuecomment-2848629683",
+      "text": "@g123k I believe you have fixed this ?"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-server#11851",
@@ -102,37 +159,42 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6577",
+      "title": "Robotoff questions in editing (part 2) for packaging",
+      "stale_for": 0,
+      "labels": [
+        "🤖 Robotoff"
+      ]
+    },
+    {
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/127",
       "title": "We don't write the portion size in Robotoff extraction",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Nutrition editing"
       ]
     },
     {
-      "link": "https://github.com/openfoodfacts/smooth-app/issues/6571",
-      "title": "Small dark mode issue in the feedback form ",
-      "stale_for": 0,
-      "labels": [
-        "📢 User feedback"
-      ]
-    },
-    {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11845",
       "title": "Disable nutrient extraction webcomponent on OBF, OPFF and OPF",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "🧴 Open Beauty Facts",
+        "🐾 Open Pet Food Facts",
+        "📸 Open Products Facts",
+        "Web components"
+      ]
     },
     {
       "link": "https://github.com/openfoodfacts/.github/issues/47",
       "title": "Deprecate Ubuntu 20.04 org-wide",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-events/issues/306",
       "title": "events.openfoodfacts.net is BAD GATEWAY",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
@@ -156,7 +218,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/722",
       "title": "Update the Images for Numbers in the Press Page",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "🗞️ Press",
         "🗞️ Press - numbers-selected"
@@ -165,13 +227,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/36",
       "title": "answer to reviews on Play Stores",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/35",
       "title": "Update Figma visuals with the Green-Score, and update the App Store and Google Play in all 30 languages",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "App Store marketing",
         "🌿 Green-Score"
@@ -180,19 +242,19 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/34",
       "title": "Create a \"Digital Public Good\" include in the press page",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/721",
       "title": "Migrate the Google Podcast icon to YouTube Podcast icon",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/719",
       "title": "TODO in lang/en/texts/nutriscore/nutriscore-new-formula-presskit.html",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "🚥 Nutri-Score",
         "Nutri-Score v2"
@@ -201,7 +263,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6560",
       "title": "Bulk upload proofs are not available for validation because the ready_for_price_tag_validation parameter is false by default",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Prices",
         "Prices - Proofs"
@@ -210,7 +272,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/490",
       "title": "Implement structured packaging editing",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "✏️ Editing",
         "📦 Packaging"
@@ -243,7 +305,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/486",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
@@ -255,7 +317,7 @@
     {
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/issues/180",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
@@ -275,7 +337,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1061",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
@@ -302,7 +364,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6545",
       "title": "Tabs for the product page",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "🥫 Product page"
       ]
