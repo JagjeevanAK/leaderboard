@@ -10,8 +10,8 @@
 
 const { join } = require("path");
 const { writeFile, mkdir, readFile } = require("fs/promises");
-const dotenv = require('dotenv');
-dotenv.config({ path: '.env.local' });
+const dotenv = require("dotenv");
+dotenv.config({ path: ".env.local" });
 dotenv.config();
 const { Octokit } = require("octokit");
 

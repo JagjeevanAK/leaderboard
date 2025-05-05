@@ -8,7 +8,6 @@ In any collaborative project or community, recognizing and appreciating contribu
 
 By consolidating information about contributions, such as code commits, issue discussions, and Slack interactions, into a single location, the Leaderboard-Data Repository provides a transparent overview of the community's collective efforts. This not only celebrates individual achievements but also encourages collaboration and healthy competition, driving the community towards shared goals and objectives.
 
-
 ## Features
 
 - **Contributors Data**: The `contributors.json` file contains detailed information about contributors, including their GitHub usernames, Slack usernames, and contribution statistics.

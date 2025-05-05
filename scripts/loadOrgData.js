@@ -11,9 +11,12 @@ try {
   console.error("No .env or .env.local file found");
 }
 
-const DATA_SOURCE = process.env.NEXT_PUBLIC_DATA_SOURCE || process.env.DATA_SOURCE || null;
+const DATA_SOURCE =
+  process.env.NEXT_PUBLIC_DATA_SOURCE || process.env.DATA_SOURCE || null;
 if (!DATA_SOURCE) {
-  console.error("Please provide DATA_SOURCE or NEXT_PUBLIC_DATA_SOURCE environment variable");
+  console.error(
+    "Please provide DATA_SOURCE or NEXT_PUBLIC_DATA_SOURCE environment variable",
+  );
   process.exit(1);
 }
 const cwd = process.cwd();

@@ -78,9 +78,9 @@ export default function Footer() {
                   />
                 </a>
               </div>
-                <p className="max-w-xs text-sm text-gray-400">
+              <p className="max-w-xs text-sm text-gray-400">
                 Crowdsourced, free and open food products database.
-                </p>
+              </p>
             </FooterSection>
           </div>
 

@@ -10304,42 +10304,31 @@
       "link": "https://github.com/openfoodfacts/robotoff/issues/1539",
       "title": "Add bounding box to nutrition extraction",
       "stale_for": 27,
-      "labels": [
-        "🎯 P1",
-        "nutrition prediction"
-      ]
+      "labels": ["🎯 P1", "nutrition prediction"]
     },
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1533",
       "title": "Make an insight from ingredients crop detection",
       "stale_for": 27,
-      "labels": [
-        "🎯 P1"
-      ]
+      "labels": ["🎯 P1"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/37",
       "title": "Create a web-components to validate ingredients crops",
       "stale_for": 40,
-      "labels": [
-        "ingredients"
-      ]
+      "labels": ["ingredients"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/31",
       "title": "Create a webcomponent to display knowledge panels",
       "stale_for": 22,
-      "labels": [
-        "📖 Knowledge Panels"
-      ]
+      "labels": ["📖 Knowledge Panels"]
     },
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/282",
       "title": "Change Searchbar to be a search-a-licious gobal component, and make a simple search-bar component",
       "stale_for": 58,
-      "labels": [
-        "frontend"
-      ]
+      "labels": ["frontend"]
     },
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/1151",
@@ -10357,26 +10346,19 @@
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6392",
       "title": "Continue the work on using straight \"test\" server when provided and not \"type.Food\" instance",
       "stale_for": 54,
-      "labels": [
-        "🎯 P1",
-        "OxF"
-      ]
+      "labels": ["🎯 P1", "OxF"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/315",
       "title": "Add support for Folksonomy engine into the Python SDK",
       "stale_for": 27,
-      "labels": [
-        "Folksonomy Engine"
-      ]
+      "labels": ["Folksonomy Engine"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11371",
       "title": "Eventually restore the nutrients stats per categories",
       "stale_for": 81,
-      "labels": [
-        "averages by categories"
-      ]
+      "labels": ["averages by categories"]
     },
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/275",
@@ -10394,19 +10376,13 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/455",
       "title": "Make a small script (or tool) to analyze nginx logs latency",
       "stale_for": 26,
-      "labels": [
-        "NGINX"
-      ]
+      "labels": ["NGINX"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/454",
       "title": "Serve images from ovh3 and ks1",
       "stale_for": 26,
-      "labels": [
-        "🖼️ Images",
-        "ovh3",
-        "ks1"
-      ]
+      "labels": ["🖼️ Images", "ovh3", "ks1"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/453",
@@ -10428,17 +10404,13 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11224",
       "title": "Simplify the logging configuration by using variables",
       "stale_for": 114,
-      "labels": [
-        "infrastructure"
-      ]
+      "labels": ["infrastructure"]
     },
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/273",
       "title": "Change redis queue name for open food facts and filter by object type",
       "stale_for": 115,
-      "labels": [
-        "🎯 P0"
-      ]
+      "labels": ["🎯 P0"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11221",
@@ -10469,9 +10441,7 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11139",
       "title": "Ensure json are correctly re-created on build taxonomies",
       "stale_for": 138,
-      "labels": [
-        "🧬 Taxonomies - Rebuild"
-      ]
+      "labels": ["🧬 Taxonomies - Rebuild"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/21",

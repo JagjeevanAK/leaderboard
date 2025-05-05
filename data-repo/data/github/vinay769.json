@@ -15,10 +15,7 @@
       "time": "2025-05-04T21:45:46.000Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6509",
       "text": "fix: UI padding for better layout",
-      "collaborated_with": [
-        "vinay769",
-        "g123k"
-      ]
+      "collaborated_with": ["vinay769", "g123k"]
     },
     {
       "type": "comment_created",

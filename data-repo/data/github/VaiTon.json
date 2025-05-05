@@ -3598,9 +3598,7 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/270",
       "title": "Move server API to openfoodfacts-nodejs",
       "stale_for": 20,
-      "labels": [
-        "Network calls"
-      ]
+      "labels": ["Network calls"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/181",
@@ -3612,61 +3610,43 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/180",
       "title": "Add support for Search-A-Licious",
       "stale_for": 1,
-      "labels": [
-        "🔎 Search",
-        "Web Components"
-      ]
+      "labels": ["🔎 Search", "Web Components"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/178",
       "title": "Integrate Nutri-Patrol, our new moderation tool https://github.com/openfoodfacts/nutripatrol",
       "stale_for": 20,
-      "labels": [
-        "👮 Nutri-Patrol"
-      ]
+      "labels": ["👮 Nutri-Patrol"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/175",
       "title": "Allow unselecting images from a product",
       "stale_for": 45,
-      "labels": [
-        "🖼️ Images",
-        "✏️ Editing - Images"
-      ]
+      "labels": ["🖼️ Images", "✏️ Editing - Images"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/174",
       "title": "Allow extracting ingredients from the ingredients image",
       "stale_for": 45,
-      "labels": [
-        "✏️ Editing",
-        "✏️ Editing - Ingredients"
-      ]
+      "labels": ["✏️ Editing", "✏️ Editing - Ingredients"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/166",
       "title": "Add support for Price editing",
       "stale_for": 32,
-      "labels": [
-        "💸 Prices",
-        "✏️ Editing"
-      ]
+      "labels": ["💸 Prices", "✏️ Editing"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/1",
       "title": "Implement a real login mechanism",
       "stale_for": 32,
-      "labels": [
-        "🔐 Auth"
-      ]
+      "labels": ["🔐 Auth"]
     },
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/616",
       "title": "Consider using the openfoodfacts-nodejs SDK",
       "stale_for": 64,
-      "labels": [
-        "Refactoring"
-      ]
+      "labels": ["Refactoring"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7465",
@@ -3684,110 +3664,67 @@
       "link": "https://github.com/openfoodfacts/smooth-app/issues/2215",
       "title": "As a user, I should be able to specify if a field is not printed on the packaging",
       "stale_for": 6,
-      "labels": [
-        "✏️ Contribution",
-        "P4"
-      ]
+      "labels": ["✏️ Contribution", "P4"]
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/2172",
       "title": "The personal ranking search button jumps when scrolling",
       "stale_for": 183,
-      "labels": [
-        "personal search",
-        "🎨 UI / UX",
-        "personal scoring",
-        "fixed ?"
-      ]
+      "labels": ["personal search", "🎨 UI / UX", "personal scoring", "fixed ?"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4179",
       "title": "Update to mlkit 17.0.0 (Needs API 19)",
       "stale_for": 904,
-      "labels": [
-        "dependencies",
-        "requires sdk update",
-        "mlkit"
-      ]
+      "labels": ["dependencies", "requires sdk update", "mlkit"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/4810",
       "title": "in ingredients_processing.txt if the unaccented version is first, or the only version, it won't match accented terms",
       "stale_for": 197,
-      "labels": [
-        "🧬 Taxonomies",
-        "processing",
-        "⏰ Stale"
-      ]
+      "labels": ["🧬 Taxonomies", "processing", "⏰ Stale"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/3756",
       "title": "RFC: Migrate from greenDAO to ObjectBox",
       "stale_for": 1356,
-      "labels": [
-        "sql",
-        "local database",
-        "greendao"
-      ]
+      "labels": ["sql", "local database", "greendao"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/3755",
       "title": "Implement MaterialTheme",
       "stale_for": 1364,
-      "labels": [
-        "refactoring",
-        "ui",
-        "theme"
-      ]
+      "labels": ["refactoring", "ui", "theme"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/4603",
       "title": "Android app deep link conflicting URLs",
       "stale_for": 197,
-      "labels": [
-        "🤳🥫 blocking mobile apps",
-        "⏰ Stale"
-      ]
+      "labels": ["🤳🥫 blocking mobile apps", "⏰ Stale"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/3128",
       "title": "Update to okhttp 3.13",
       "stale_for": 1812,
-      "labels": [
-        "3rd party libraries",
-        "dependencies"
-      ]
+      "labels": ["3rd party libraries", "dependencies"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2703",
       "title": "Normalize taxonomy directory structure",
       "stale_for": 197,
-      "labels": [
-        "🧬 Taxonomies",
-        "P2",
-        "dev"
-      ]
+      "labels": ["🧬 Taxonomies", "P2", "dev"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2044",
       "title": "Choose a formatting style guide for the project",
       "stale_for": 197,
-      "labels": [
-        "🎯 P1 candidate",
-        "dev",
-        "👩‍💻 DevOps",
-        "👍 Top 10 Issue!"
-      ]
+      "labels": ["🎯 P1 candidate", "dev", "👩‍💻 DevOps", "👍 Top 10 Issue!"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/110",
       "title": "Activate subpages on mediawiki",
       "stale_for": 204,
-      "labels": [
-        "✨ enhancement",
-        "wiki",
-        "feature"
-      ]
+      "labels": ["✨ enhancement", "wiki", "feature"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/issues/273",

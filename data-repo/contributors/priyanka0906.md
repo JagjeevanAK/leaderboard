@@ -1,5 +1,5 @@
 ---
-name: Priyanka 
+name: Priyanka
 title: Contributor
 github: priyanka0906
 twitter: ""

@@ -1,1141 +1,1133 @@
 {
-    "2025-02-28 00:00:00": [
+  "2025-02-28 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1740747002.581499",
+      "client_msg_id": "41c5be94-2510-43cd-a998-ba0bdc603075",
+      "text": "27-28th Feb\nDone\n\u2022 Rotation Functionality in \"Files\" Section got merged.\n\u2022 Country List Alignment got merged.\nNext\n\u2022 Work on Image Dragging support.\n\u2022 Working with changes in opened PRs",
+      "team": "TC99SV7B6",
+      "blocks": [
         {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1740747002.581499",
-            "client_msg_id": "41c5be94-2510-43cd-a998-ba0bdc603075",
-            "text": "27-28th Feb\nDone\n\u2022 Rotation Functionality in \"Files\" Section got merged.\n\u2022 Country List Alignment got merged.\nNext\n\u2022 Work on Image Dragging support.\n\u2022 Working with changes in opened PRs",
-            "team": "TC99SV7B6",
-            "blocks": [
+          "type": "rich_text",
+          "block_id": "+M63C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
                 {
-                    "type": "rich_text",
-                    "block_id": "+M63C",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "27-28th Feb\nDone\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Rotation Functionality in \"Files\" Section got merged."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Country List Alignment got merged."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Work on Image Dragging support."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Working with changes in opened PRs"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        }
-                    ]
+                  "type": "text",
+                  "text": "27-28th Feb\nDone\n"
                 }
-            ]
-        }
-    ],
-    "2025-03-04 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1741062181.037599",
-            "edited": {
-                "user": "U08226KPBF1",
-                "ts": "1741062230.000000"
+              ]
             },
-            "client_msg_id": "d168ffec-e27a-4b84-abb3-4c596c16553c",
-            "text": "2nd and 3rd march 2025\nDone\n\u2022 Raised PR for the assigned issues.\nNext :\n\u2022 Find more issues.\n\u2022 Solve Leetcode Problems\n\u2022 Waiting for the PR review - <https://github.com/ohcnetwork/care_fe/pull/10968|10968> , <https://github.com/ohcnetwork/care_fe/pull/10696|10696> , <https://github.com/ohcnetwork/care_fe/pull/10777|10777> , <https://github.com/ohcnetwork/care_fe/pull/10830|10830> , <https://github.com/ohcnetwork/care_fe/pull/10899|10899> , <https://github.com/ohcnetwork/care_fe/pull/10978|10978>",
-            "team": "TC99SV7B6",
-            "blocks": [
+            {
+              "type": "rich_text_list",
+              "elements": [
                 {
-                    "type": "rich_text",
-                    "block_id": "nOM3m",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "2nd and 3rd march 2025\nDone\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Raised PR for the assigned issues."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next :\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Find more issues."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Solve Leetcode Problems"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Waiting for the PR review - "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10968",
-                                            "text": "10968"
-                                        },
-                                        {
-                                            "type": "text",
-                                            "text": " , "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10696",
-                                            "text": "10696"
-                                        },
-                                        {
-                                            "type": "text",
-                                            "text": " , "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10777",
-                                            "text": "10777"
-                                        },
-                                        {
-                                            "type": "text",
-                                            "text": " , "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10830",
-                                            "text": "10830"
-                                        },
-                                        {
-                                            "type": "text",
-                                            "text": " , "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10899",
-                                            "text": "10899"
-                                        },
-                                        {
-                                            "type": "text",
-                                            "text": " , "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/pull/10978",
-                                            "text": "10978"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "2025-03-06 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1741265089.546109",
-            "client_msg_id": "17af1658-90ad-4dd7-9595-72cd7565a16a",
-            "text": "March 6th\n\u2022 Done changes in open PR.\nNext\n\u2022 Looking for new issues.\n",
-            "team": "TC99SV7B6",
-            "blocks": [
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Rotation Functionality in \"Files\" Section got merged."
+                    }
+                  ]
+                },
                 {
-                    "type": "rich_text",
-                    "block_id": "UE29n",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "March 6th\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Done changes in open PR."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Looking for new issues."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": []
-                        }
-                    ]
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Country List Alignment got merged."
+                    }
+                  ]
                 }
-            ],
-            "reactions": [
-                {
-                    "name": "rocket",
-                    "users": [
-                        "U0576PEACG0"
-                    ],
-                    "count": 1
-                }
-            ]
-        }
-    ],
-    "2025-03-10 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1741621728.655019",
-            "edited": {
-                "user": "U08226KPBF1",
-                "ts": "1741621812.000000"
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
             },
-            "client_msg_id": "94c8ae47-4862-498f-bcb3-6cbbb47066cc",
-            "text": "March 10\n\u2022 Pushed changes in open PRs.\n\u2022 Resolved conflict in open PR.\nNext\n\u2022 looking for new issues.",
-            "team": "TC99SV7B6",
-            "blocks": [
+            {
+              "type": "rich_text_section",
+              "elements": [
                 {
-                    "type": "rich_text",
-                    "block_id": "dah0w",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "March 10\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Pushed changes in open PRs."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Resolved conflict in open PR."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "looking for new issues."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        }
-                    ]
+                  "type": "text",
+                  "text": "Next\n"
                 }
-            ]
-        }
-    ],
-    "2025-03-20 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1742473776.679149",
-            "client_msg_id": "97e92612-0a1f-4b2a-bf84-e2fd4a56496c",
-            "text": "19 March\nDone\n\u2022 Merged one PR \n\u2022 Raised one PR\nNext\n\u2022 Fix the failed PR\n\u2022 Looking for new issues.",
-            "team": "TC99SV7B6",
-            "blocks": [
-                {
-                    "type": "rich_text",
-                    "block_id": "AMQIG",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "19 March\nDone\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Merged one PR "
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Raised one PR"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Fix the failed PR"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Looking for new issues."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "2025-03-23 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1742696801.936579",
-            "edited": {
-                "user": "U08226KPBF1",
-                "ts": "1742696815.000000"
+              ]
             },
-            "client_msg_id": "af1b9313-34b3-4d3c-b13e-0410c44dc207",
-            "text": "22 nd March 2025\nDone \n\u2022 Opened one issue \n\u2022 Merged 1 PR\nNext\n\u2022 Looking for new issues ",
-            "team": "TC99SV7B6",
-            "blocks": [
+            {
+              "type": "rich_text_list",
+              "elements": [
                 {
-                    "type": "rich_text",
-                    "block_id": "SIGSu",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "22 nd March 2025\nDone \n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Opened one issue "
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Merged 1 PR"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "offset": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Looking for new issues "
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "offset": 0,
-                            "border": 0
-                        }
-                    ]
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Work on Image Dragging support."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Working with changes in opened PRs"
+                    }
+                  ]
                 }
-            ]
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
         }
-    ],
-    "2025-03-24 00:00:00": [
+      ]
+    }
+  ],
+  "2025-03-04 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1741062181.037599",
+      "edited": {
+        "user": "U08226KPBF1",
+        "ts": "1741062230.000000"
+      },
+      "client_msg_id": "d168ffec-e27a-4b84-abb3-4c596c16553c",
+      "text": "2nd and 3rd march 2025\nDone\n\u2022 Raised PR for the assigned issues.\nNext :\n\u2022 Find more issues.\n\u2022 Solve Leetcode Problems\n\u2022 Waiting for the PR review - <https://github.com/ohcnetwork/care_fe/pull/10968|10968> , <https://github.com/ohcnetwork/care_fe/pull/10696|10696> , <https://github.com/ohcnetwork/care_fe/pull/10777|10777> , <https://github.com/ohcnetwork/care_fe/pull/10830|10830> , <https://github.com/ohcnetwork/care_fe/pull/10899|10899> , <https://github.com/ohcnetwork/care_fe/pull/10978|10978>",
+      "team": "TC99SV7B6",
+      "blocks": [
         {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1742823340.317229",
-            "client_msg_id": "5a21f126-c0e4-4f08-8331-23eddc602c03",
-            "text": "24 March 2025\n\nNext\n\u2022 Looking for new issues.\n\u2022 Will not be having much contributions this week due to my exams.\n",
-            "team": "TC99SV7B6",
-            "blocks": [
+          "type": "rich_text",
+          "block_id": "nOM3m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
                 {
-                    "type": "rich_text",
-                    "block_id": "PLY9X",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "24 March 2025\n\nNext\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Looking for new issues."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Will not be having much contributions this week due to my exams."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": []
-                        }
-                    ]
+                  "type": "text",
+                  "text": "2nd and 3rd march 2025\nDone\n"
                 }
-            ]
-        }
-    ],
-    "2025-03-29 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1743226245.359529",
-            "client_msg_id": "965198b4-be9a-479b-8bc2-5904fa06de3a",
-            "text": "March 27,28\n\u2022 Published an Issue - <https://github.com/ohcnetwork/care_fe/issues/11601|11601>\n\u2022 Merged 2 PRs.\nNext\n\u2022 Looking for new issue .",
-            "team": "TC99SV7B6",
-            "attachments": [
-                {
-                    "id": 1,
-                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
-                    "ts": 1743097288,
-                    "color": "36a64f",
-                    "bot_id": "B01V56NBBNC",
-                    "bot_team_id": "TC99SV7B6",
-                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/11601",
-                    "is_app_unfurl": true,
-                    "app_id": "A01BP7R4KNY",
-                    "fallback": "#11601 Expand Tree items by clicking row/text instead of arrow icon",
-                    "text": "*Describe the bug*  \nIn the Department/Teams section of Settings. users must explicitly click the arrow button to expand/collapse department items which is not user friendly.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to 'Settings'\n2. Navigate to 'Departments/Teams' section.\n3. Notice that clicking the text/name doesn't expand/collapse the item.\n4. Only clicking the small arrow icon works for expansion/collapse.\nfix21.mp4 \n\n*Expected behavior*\n\nClicking anywhere on the item text/name should expand/collapse the item\n\nExpected Output.\n\nFix22.mp4 \n\n*Screenshots*\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.\n\n---\n\n### :rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:\n\n### Instructions for Requesting Assignment:\n\nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\n*Describe your solution clearly:*  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\n*Expected Timeline:*\n\n\u2022 End date: [Expected submission date of a completed Pull Request]\n\n*Additional Context:*  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n> :rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
-                    "title": "#11601 Expand Tree items by clicking row/text instead of arrow icon",
-                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/11601",
-                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
-                    "fields": [
-                        {
-                            "value": "question, needs-triage",
-                            "title": "Labels",
-                            "short": true
-                        },
-                        {
-                            "value": "2",
-                            "title": "Comments",
-                            "short": true
-                        }
-                    ],
-                    "mrkdwn_in": [
-                        "text"
-                    ]
-                }
-            ],
-            "blocks": [
-                {
-                    "type": "rich_text",
-                    "block_id": "epfm0",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "March 27,28\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Published an Issue - "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/issues/11601",
-                                            "text": "11601"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Merged 2 PRs."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Looking for new issue ."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "2025-04-03 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1743686193.959069",
-            "edited": {
-                "user": "U08226KPBF1",
-                "ts": "1743686209.000000"
+              ]
             },
-            "client_msg_id": "65d04e6f-35d3-4181-aec2-d77e5eac5453",
-            "text": "April 2\nDone\n\u2022 Open an issue and PR.\n\u2022  Updated the changes in PR.\nNext\n\u2022  Looking for new issues .",
-            "team": "TC99SV7B6",
-            "blocks": [
+            {
+              "type": "rich_text_list",
+              "elements": [
                 {
-                    "type": "rich_text",
-                    "block_id": "ZgDga",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "April 2\nDone\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Open an issue and PR."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": " Updated the changes in PR."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "offset": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": " Looking for new issues ."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "offset": 0,
-                            "border": 0
-                        }
-                    ]
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Raised PR for the assigned issues."
+                    }
+                  ]
                 }
-            ]
-        }
-    ],
-    "2025-04-05 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1743864509.508259",
-            "edited": {
-                "user": "U08226KPBF1",
-                "ts": "1743864559.000000"
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
             },
-            "client_msg_id": "9e9f3b90-0fc9-4f80-a51a-659ceb5fb708",
-            "text": "Done\n\u2022 Updated the changes in PR\nNext\n\u2022 Looking for new issues .\n",
-            "team": "TC99SV7B6",
-            "blocks": [
+            {
+              "type": "rich_text_section",
+              "elements": [
                 {
-                    "type": "rich_text",
-                    "block_id": "lUjGI",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Done\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Updated the changes in PR"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Looking for new issues ."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": []
-                        }
-                    ]
+                  "type": "text",
+                  "text": "Next :\n"
                 }
-            ],
-            "reactions": [
-                {
-                    "name": "rocket",
-                    "users": [
-                        "U0576PEACG0"
-                    ],
-                    "count": 1
-                }
-            ]
-        }
-    ],
-    "2025-04-14 00:00:00": [
-        {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1744606792.560449",
-            "edited": {
-                "user": "U08226KPBF1",
-                "ts": "1744606803.000000"
+              ]
             },
-            "client_msg_id": "4a2725f7-071a-40e1-b2ab-cc30b5c04cae",
-            "text": "April 12,13\nDone\n\u2022 Updated existing PR.\n\u2022 Raised one issue related to PDF Viewer Zoom Issue , <https://github.com/ohcnetwork/care_fe/issues/11879| #11879>\nNext\n\u2022 Looking for new issues",
-            "team": "TC99SV7B6",
-            "attachments": [
+            {
+              "type": "rich_text_list",
+              "elements": [
                 {
-                    "id": 1,
-                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
-                    "ts": 1744392237,
-                    "color": "36a64f",
-                    "bot_id": "B01V56NBBNC",
-                    "bot_team_id": "TC99SV7B6",
-                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/11879",
-                    "is_app_unfurl": true,
-                    "app_id": "A01BP7R4KNY",
-                    "fallback": "#11879 PDF Viewer Zoom Issue: Affects Navigation Controls and Buttons",
-                    "text": "*Describe the bug*  \nWhen viewing a PDF file in the file preview, if we try to zoom in, the entire buttons are zooming in.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to 'Encounters'\n2. Click on 'Files' -> \"Add Files\"\n3. Upload a Pdf and zoom it ,\n4. Observe that all control buttons size is increasing.\nissue1.mp4 \n\n*Expected behavior*  \nOnly the PDF content should zoom in/out.\n\n*Screenshots*  \nIf applicable, add screenshots to help explain your problem.\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.\n\n---\n\n### :rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:\n\n### Instructions for Requesting Assignment:\n\nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\n*Describe your solution clearly:*  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\n*Expected Timeline:*\n\n\u2022 End date: [Expected submission date of a completed Pull Request]\n\n*Additional Context:*  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n> :rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
-                    "title": "#11879 PDF Viewer Zoom Issue: Affects Navigation Controls and Buttons",
-                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/11879",
-                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
-                    "fields": [
-                        {
-                            "value": "question, needs-triage",
-                            "title": "Labels",
-                            "short": true
-                        },
-                        {
-                            "value": "2",
-                            "title": "Comments",
-                            "short": true
-                        }
-                    ],
-                    "mrkdwn_in": [
-                        "text"
-                    ]
-                }
-            ],
-            "blocks": [
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Find more issues."
+                    }
+                  ]
+                },
                 {
-                    "type": "rich_text",
-                    "block_id": "b220J",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "April 12,13\nDone\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Updated existing PR."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Raised one issue related to PDF Viewer Zoom Issue , "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/issues/11879",
-                                            "text": " #11879",
-                                            "unsafe": true
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Looking for new issues"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        }
-                    ]
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Solve Leetcode Problems"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Waiting for the PR review - "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/pull/10968",
+                      "text": "10968"
+                    },
+                    {
+                      "type": "text",
+                      "text": " , "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/pull/10696",
+                      "text": "10696"
+                    },
+                    {
+                      "type": "text",
+                      "text": " , "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/pull/10777",
+                      "text": "10777"
+                    },
+                    {
+                      "type": "text",
+                      "text": " , "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/pull/10830",
+                      "text": "10830"
+                    },
+                    {
+                      "type": "text",
+                      "text": " , "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/pull/10899",
+                      "text": "10899"
+                    },
+                    {
+                      "type": "text",
+                      "text": " , "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/pull/10978",
+                      "text": "10978"
+                    }
+                  ]
                 }
-            ]
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
         }
-    ],
-    "2025-04-22 00:00:00": [
+      ]
+    }
+  ],
+  "2025-03-06 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1741265089.546109",
+      "client_msg_id": "17af1658-90ad-4dd7-9595-72cd7565a16a",
+      "text": "March 6th\n\u2022 Done changes in open PR.\nNext\n\u2022 Looking for new issues.\n",
+      "team": "TC99SV7B6",
+      "blocks": [
         {
-            "user": "U08226KPBF1",
-            "type": "message",
-            "ts": "1745314952.869199",
-            "client_msg_id": "e3af75f8-e57b-46f5-9104-0d904bbba7da",
-            "text": "April 19,20,21\nDone\n\u2022 Updated existing PR.\n\u2022 Opened some issue for new contributors.\n\u2022 Got assigned for this issue - <https://github.com/ohcnetwork/care_fe/issues/10739|#10739> , Raised PR.\nNext\n\u2022 Looking for new issues.\n",
-            "team": "TC99SV7B6",
-            "blocks": [
+          "type": "rich_text",
+          "block_id": "UE29n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
                 {
-                    "type": "rich_text",
-                    "block_id": "6rH9t",
-                    "elements": [
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "April 19,20,21\nDone\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Updated existing PR."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Opened some issue for new contributors."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Got assigned for this issue - "
-                                        },
-                                        {
-                                            "type": "link",
-                                            "url": "https://github.com/ohcnetwork/care_fe/issues/10739",
-                                            "text": "#10739",
-                                            "unsafe": true
-                                        },
-                                        {
-                                            "type": "text",
-                                            "text": " , Raised PR."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": [
-                                {
-                                    "type": "text",
-                                    "text": "Next\n"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "rich_text_list",
-                            "elements": [
-                                {
-                                    "type": "rich_text_section",
-                                    "elements": [
-                                        {
-                                            "type": "text",
-                                            "text": "Looking for new issues."
-                                        }
-                                    ]
-                                }
-                            ],
-                            "style": "bullet",
-                            "indent": 0,
-                            "border": 0
-                        },
-                        {
-                            "type": "rich_text_section",
-                            "elements": []
-                        }
-                    ]
+                  "type": "text",
+                  "text": "March 6th\n"
                 }
-            ]
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Done changes in open PR."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Looking for new issues."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
         }
-    ]
+      ],
+      "reactions": [
+        {
+          "name": "rocket",
+          "users": ["U0576PEACG0"],
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "2025-03-10 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1741621728.655019",
+      "edited": {
+        "user": "U08226KPBF1",
+        "ts": "1741621812.000000"
+      },
+      "client_msg_id": "94c8ae47-4862-498f-bcb3-6cbbb47066cc",
+      "text": "March 10\n\u2022 Pushed changes in open PRs.\n\u2022 Resolved conflict in open PR.\nNext\n\u2022 looking for new issues.",
+      "team": "TC99SV7B6",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dah0w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "March 10\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Pushed changes in open PRs."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Resolved conflict in open PR."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "looking for new issues."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2025-03-20 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1742473776.679149",
+      "client_msg_id": "97e92612-0a1f-4b2a-bf84-e2fd4a56496c",
+      "text": "19 March\nDone\n\u2022 Merged one PR \n\u2022 Raised one PR\nNext\n\u2022 Fix the failed PR\n\u2022 Looking for new issues.",
+      "team": "TC99SV7B6",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AMQIG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "19 March\nDone\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Merged one PR "
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Raised one PR"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Fix the failed PR"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Looking for new issues."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2025-03-23 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1742696801.936579",
+      "edited": {
+        "user": "U08226KPBF1",
+        "ts": "1742696815.000000"
+      },
+      "client_msg_id": "af1b9313-34b3-4d3c-b13e-0410c44dc207",
+      "text": "22 nd March 2025\nDone \n\u2022 Opened one issue \n\u2022 Merged 1 PR\nNext\n\u2022 Looking for new issues ",
+      "team": "TC99SV7B6",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SIGSu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "22 nd March 2025\nDone \n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Opened one issue "
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Merged 1 PR"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "offset": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Looking for new issues "
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "offset": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2025-03-24 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1742823340.317229",
+      "client_msg_id": "5a21f126-c0e4-4f08-8331-23eddc602c03",
+      "text": "24 March 2025\n\nNext\n\u2022 Looking for new issues.\n\u2022 Will not be having much contributions this week due to my exams.\n",
+      "team": "TC99SV7B6",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PLY9X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "24 March 2025\n\nNext\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Looking for new issues."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Will not be having much contributions this week due to my exams."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2025-03-29 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1743226245.359529",
+      "client_msg_id": "965198b4-be9a-479b-8bc2-5904fa06de3a",
+      "text": "March 27,28\n\u2022 Published an Issue - <https://github.com/ohcnetwork/care_fe/issues/11601|11601>\n\u2022 Merged 2 PRs.\nNext\n\u2022 Looking for new issue .",
+      "team": "TC99SV7B6",
+      "attachments": [
+        {
+          "id": 1,
+          "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+          "ts": 1743097288,
+          "color": "36a64f",
+          "bot_id": "B01V56NBBNC",
+          "bot_team_id": "TC99SV7B6",
+          "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/11601",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "#11601 Expand Tree items by clicking row/text instead of arrow icon",
+          "text": "*Describe the bug*  \nIn the Department/Teams section of Settings. users must explicitly click the arrow button to expand/collapse department items which is not user friendly.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to 'Settings'\n2. Navigate to 'Departments/Teams' section.\n3. Notice that clicking the text/name doesn't expand/collapse the item.\n4. Only clicking the small arrow icon works for expansion/collapse.\nfix21.mp4 \n\n*Expected behavior*\n\nClicking anywhere on the item text/name should expand/collapse the item\n\nExpected Output.\n\nFix22.mp4 \n\n*Screenshots*\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.\n\n---\n\n### :rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:\n\n### Instructions for Requesting Assignment:\n\nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\n*Describe your solution clearly:*  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\n*Expected Timeline:*\n\n\u2022 End date: [Expected submission date of a completed Pull Request]\n\n*Additional Context:*  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n> :rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
+          "title": "#11601 Expand Tree items by clicking row/text instead of arrow icon",
+          "title_link": "https://github.com/ohcnetwork/care_fe/issues/11601",
+          "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+          "fields": [
+            {
+              "value": "question, needs-triage",
+              "title": "Labels",
+              "short": true
+            },
+            {
+              "value": "2",
+              "title": "Comments",
+              "short": true
+            }
+          ],
+          "mrkdwn_in": ["text"]
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "epfm0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "March 27,28\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Published an Issue - "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/issues/11601",
+                      "text": "11601"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Merged 2 PRs."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Looking for new issue ."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2025-04-03 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1743686193.959069",
+      "edited": {
+        "user": "U08226KPBF1",
+        "ts": "1743686209.000000"
+      },
+      "client_msg_id": "65d04e6f-35d3-4181-aec2-d77e5eac5453",
+      "text": "April 2\nDone\n\u2022 Open an issue and PR.\n\u2022  Updated the changes in PR.\nNext\n\u2022  Looking for new issues .",
+      "team": "TC99SV7B6",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZgDga",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "April 2\nDone\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Open an issue and PR."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": " Updated the changes in PR."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "offset": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": " Looking for new issues ."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "offset": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2025-04-05 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1743864509.508259",
+      "edited": {
+        "user": "U08226KPBF1",
+        "ts": "1743864559.000000"
+      },
+      "client_msg_id": "9e9f3b90-0fc9-4f80-a51a-659ceb5fb708",
+      "text": "Done\n\u2022 Updated the changes in PR\nNext\n\u2022 Looking for new issues .\n",
+      "team": "TC99SV7B6",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lUjGI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Done\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Updated the changes in PR"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Looking for new issues ."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "rocket",
+          "users": ["U0576PEACG0"],
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "2025-04-14 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1744606792.560449",
+      "edited": {
+        "user": "U08226KPBF1",
+        "ts": "1744606803.000000"
+      },
+      "client_msg_id": "4a2725f7-071a-40e1-b2ab-cc30b5c04cae",
+      "text": "April 12,13\nDone\n\u2022 Updated existing PR.\n\u2022 Raised one issue related to PDF Viewer Zoom Issue , <https://github.com/ohcnetwork/care_fe/issues/11879| #11879>\nNext\n\u2022 Looking for new issues",
+      "team": "TC99SV7B6",
+      "attachments": [
+        {
+          "id": 1,
+          "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+          "ts": 1744392237,
+          "color": "36a64f",
+          "bot_id": "B01V56NBBNC",
+          "bot_team_id": "TC99SV7B6",
+          "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/11879",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "#11879 PDF Viewer Zoom Issue: Affects Navigation Controls and Buttons",
+          "text": "*Describe the bug*  \nWhen viewing a PDF file in the file preview, if we try to zoom in, the entire buttons are zooming in.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to 'Encounters'\n2. Click on 'Files' -> \"Add Files\"\n3. Upload a Pdf and zoom it ,\n4. Observe that all control buttons size is increasing.\nissue1.mp4 \n\n*Expected behavior*  \nOnly the PDF content should zoom in/out.\n\n*Screenshots*  \nIf applicable, add screenshots to help explain your problem.\n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.\n\n---\n\n### :rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:\n\n### Instructions for Requesting Assignment:\n\nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\n*Describe your solution clearly:*  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\n*Expected Timeline:*\n\n\u2022 End date: [Expected submission date of a completed Pull Request]\n\n*Additional Context:*  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n> :rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
+          "title": "#11879 PDF Viewer Zoom Issue: Affects Navigation Controls and Buttons",
+          "title_link": "https://github.com/ohcnetwork/care_fe/issues/11879",
+          "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+          "fields": [
+            {
+              "value": "question, needs-triage",
+              "title": "Labels",
+              "short": true
+            },
+            {
+              "value": "2",
+              "title": "Comments",
+              "short": true
+            }
+          ],
+          "mrkdwn_in": ["text"]
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b220J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "April 12,13\nDone\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Updated existing PR."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Raised one issue related to PDF Viewer Zoom Issue , "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/issues/11879",
+                      "text": " #11879",
+                      "unsafe": true
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Looking for new issues"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2025-04-22 00:00:00": [
+    {
+      "user": "U08226KPBF1",
+      "type": "message",
+      "ts": "1745314952.869199",
+      "client_msg_id": "e3af75f8-e57b-46f5-9104-0d904bbba7da",
+      "text": "April 19,20,21\nDone\n\u2022 Updated existing PR.\n\u2022 Opened some issue for new contributors.\n\u2022 Got assigned for this issue - <https://github.com/ohcnetwork/care_fe/issues/10739|#10739> , Raised PR.\nNext\n\u2022 Looking for new issues.\n",
+      "team": "TC99SV7B6",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6rH9t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "April 19,20,21\nDone\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Updated existing PR."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Opened some issue for new contributors."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Got assigned for this issue - "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://github.com/ohcnetwork/care_fe/issues/10739",
+                      "text": "#10739",
+                      "unsafe": true
+                    },
+                    {
+                      "type": "text",
+                      "text": " , Raised PR."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Next\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Looking for new issues."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

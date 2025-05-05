@@ -56,7 +56,7 @@ jobs:
         with:
           app-id: ${{ secrets.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
-          
+
       - name: Scrape data from GitHub
         run: pnpm start openfoodfacts ../../data/github 2025-05-03 365
         working-directory: scraper

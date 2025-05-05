@@ -117,9 +117,7 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/446",
       "title": "Disappearing images",
       "stale_for": 199,
-      "labels": [
-        "🖼️ Image upload"
-      ]
+      "labels": ["🖼️ Image upload"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/302",
@@ -137,56 +135,37 @@
       "link": "https://github.com/openfoodfacts/openbeautyfacts/issues/42",
       "title": "\"Ingredients\" Ingredient loop.",
       "stale_for": 3367,
-      "labels": [
-        "bug",
-        "ingredients"
-      ]
+      "labels": ["bug", "ingredients"]
     },
     {
       "link": "https://github.com/openfoodfacts/openbeautyfacts/issues/7",
       "title": "Fix the Data download page on Open Beauty Facts",
       "stale_for": 361,
-      "labels": [
-        "OBF-ification"
-      ]
+      "labels": ["OBF-ification"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/issues/30",
       "title": "Stuck in registration (iOS)",
       "stale_for": 182,
-      "labels": [
-        "bug",
-        "iOS",
-        "priority"
-      ]
+      "labels": ["bug", "iOS", "priority"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/issues/29",
       "title": "Some pictures are rotated 90° (i.e first Nutella result), using the website they're not. (iOS)",
       "stale_for": 182,
-      "labels": [
-        "bug",
-        "iOS"
-      ]
+      "labels": ["bug", "iOS"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/182",
       "title": "Picture not uploaded through \"add a product\" when the page already exists",
       "stale_for": 199,
-      "labels": [
-        "🖼️ Image upload",
-        "P3"
-      ]
+      "labels": ["🖼️ Image upload", "P3"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/179",
       "title": "Text formatting for allergens doesn't work properly",
       "stale_for": 199,
-      "labels": [
-        "🧬 Taxonomies",
-        "🥜 Allergens",
-        "P3"
-      ]
+      "labels": ["🧬 Taxonomies", "🥜 Allergens", "P3"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/170",
@@ -203,21 +182,13 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/169",
       "title": "Searching by packager code doesn't work in the Advanced Search",
       "stale_for": 199,
-      "labels": [
-        "🔎  Search",
-        "📍🏭 Packager codes",
-        "🔎 Advanced Search"
-      ]
+      "labels": ["🔎  Search", "📍🏭 Packager codes", "🔎 Advanced Search"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/138",
       "title": "Create RSS feeds",
       "stale_for": 124,
-      "labels": [
-        "API",
-        "export",
-        "RSS"
-      ]
+      "labels": ["API", "export", "RSS"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/58",

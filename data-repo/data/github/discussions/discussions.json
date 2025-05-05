@@ -12,10 +12,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "raphodn",
-      "CloCkWeRX"
-    ],
+    "participants": ["raphodn", "CloCkWeRX"],
     "repository": "open-prices"
   },
   {
@@ -31,9 +28,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "baslia"
-    ],
+    "participants": ["baslia"],
     "repository": "openfoodfacts-ai"
   },
   {
@@ -81,9 +76,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "monsieurtanuki"
-    ],
+    "participants": ["monsieurtanuki"],
     "repository": "smooth-app"
   },
   {
@@ -99,10 +92,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "teolemon",
-      "g123k"
-    ],
+    "participants": ["teolemon", "g123k"],
     "repository": "smooth-app"
   },
   {
@@ -157,10 +147,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "g123k",
-      "g123k"
-    ],
+    "participants": ["g123k", "g123k"],
     "repository": "smooth-app"
   },
   {
@@ -192,9 +179,7 @@
       "name": "Show and tell",
       "emoji": "🙌"
     },
-    "participants": [
-      "teolemon"
-    ],
+    "participants": ["teolemon"],
     "repository": "smooth-app"
   },
   {
@@ -258,9 +243,7 @@
       "name": "Show and tell",
       "emoji": "🙌"
     },
-    "participants": [
-      "teolemon"
-    ],
+    "participants": ["teolemon"],
     "repository": "smooth-app"
   },
   {
@@ -276,12 +259,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "VaiTon",
-      "teolemon",
-      "monsieurtanuki",
-      "teolemon"
-    ],
+    "participants": ["VaiTon", "teolemon", "monsieurtanuki", "teolemon"],
     "repository": "smooth-app"
   },
   {
@@ -297,9 +275,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "M123-dev"
-    ],
+    "participants": ["M123-dev"],
     "repository": "smooth-app"
   },
   {
@@ -315,9 +291,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "M123-dev"
-    ],
+    "participants": ["M123-dev"],
     "repository": "smooth-app"
   },
   {
@@ -333,9 +307,7 @@
       "name": "Show and tell",
       "emoji": "🙌"
     },
-    "participants": [
-      "teolemon"
-    ],
+    "participants": ["teolemon"],
     "repository": "smooth-app"
   },
   {
@@ -351,9 +323,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "teolemon"
-    ],
+    "participants": ["teolemon"],
     "repository": "smooth-app"
   },
   {
@@ -391,9 +361,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "M123-dev"
-    ],
+    "participants": ["M123-dev"],
     "repository": "smooth-app"
   },
   {
@@ -409,9 +377,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "JagjeevanAK"
-    ],
+    "participants": ["JagjeevanAK"],
     "repository": "openfoodfacts-server"
   },
   {
@@ -466,9 +432,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "hangy"
-    ],
+    "participants": ["hangy"],
     "repository": "openfoodfacts-server"
   },
   {
@@ -506,9 +470,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "alexgarel"
-    ],
+    "participants": ["alexgarel"],
     "repository": "openfoodfacts-server"
   },
   {
@@ -524,9 +486,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "alexgarel"
-    ],
+    "participants": ["alexgarel"],
     "repository": "openfoodfacts-server"
   },
   {
@@ -542,9 +502,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "VaiTon"
-    ],
+    "participants": ["VaiTon"],
     "repository": "openfoodfacts-server"
   },
   {
@@ -560,9 +518,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "teolemon"
-    ],
+    "participants": ["teolemon"],
     "repository": "openfoodfacts-server"
   },
   {
@@ -603,10 +559,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "teolemon",
-      "alexfauquette"
-    ],
+    "participants": ["teolemon", "alexfauquette"],
     "repository": "hunger-games"
   },
   {
@@ -638,9 +591,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "CloCkWeRX"
-    ],
+    "participants": ["CloCkWeRX"],
     "repository": "open-prices"
   },
   {
@@ -656,9 +607,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "CloCkWeRX"
-    ],
+    "participants": ["CloCkWeRX"],
     "repository": "open-prices"
   },
   {
@@ -674,9 +623,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "serpico"
-    ],
+    "participants": ["serpico"],
     "repository": "open-prices"
   },
   {
@@ -716,12 +663,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "etherworlds",
-      "etherworlds",
-      "raphodn",
-      "serpico"
-    ],
+    "participants": ["etherworlds", "etherworlds", "raphodn", "serpico"],
     "repository": "open-prices"
   },
   {
@@ -737,9 +679,7 @@
       "name": "Announcements",
       "emoji": "📣"
     },
-    "participants": [
-      "raphodn"
-    ],
+    "participants": ["raphodn"],
     "repository": "open-prices"
   },
   {
@@ -779,13 +719,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "serpico",
-      "serpico",
-      "tradmangh",
-      "serpico",
-      "raphodn"
-    ],
+    "participants": ["serpico", "serpico", "tradmangh", "serpico", "raphodn"],
     "repository": "open-prices"
   },
   {
@@ -801,12 +735,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "raphodn",
-      "serpico",
-      "baslia",
-      "raphodn"
-    ],
+    "participants": ["raphodn", "serpico", "baslia", "raphodn"],
     "repository": "open-prices"
   },
   {
@@ -838,9 +767,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "raphodn"
-    ],
+    "participants": ["raphodn"],
     "repository": "open-prices"
   },
   {
@@ -856,9 +783,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "raphodn"
-    ],
+    "participants": ["raphodn"],
     "repository": "open-prices"
   },
   {
@@ -899,9 +824,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "raphodn"
-    ],
+    "participants": ["raphodn"],
     "repository": "open-prices"
   },
   {
@@ -917,13 +840,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "raphodn",
-      "serpico",
-      "TTalex",
-      "raphodn",
-      "serpico"
-    ],
+    "participants": ["raphodn", "serpico", "TTalex", "raphodn", "serpico"],
     "repository": "open-prices"
   },
   {
@@ -939,11 +856,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "raphodn",
-      "raphodn",
-      "raphodn"
-    ],
+    "participants": ["raphodn", "raphodn", "raphodn"],
     "repository": "open-prices"
   },
   {
@@ -975,9 +888,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "serpico"
-    ],
+    "participants": ["serpico"],
     "repository": "open-prices"
   },
   {
@@ -993,12 +904,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "raphodn",
-      "raphodn",
-      "serpico",
-      "serpico"
-    ],
+    "participants": ["raphodn", "raphodn", "serpico", "serpico"],
     "repository": "open-prices"
   },
   {
@@ -1030,11 +936,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "serpico",
-      "raphael0202",
-      "TTalex"
-    ],
+    "participants": ["serpico", "raphael0202", "TTalex"],
     "repository": "open-prices"
   },
   {
@@ -1050,12 +952,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "alexfauquette",
-      "TTalex",
-      "raphodn",
-      "raphodn"
-    ],
+    "participants": ["alexfauquette", "TTalex", "raphodn", "raphodn"],
     "repository": "open-prices"
   },
   {
@@ -1071,9 +968,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "raphodn"
-    ],
+    "participants": ["raphodn"],
     "repository": "open-prices"
   },
   {
@@ -1089,10 +984,7 @@
       "name": "Announcements",
       "emoji": "📣"
     },
-    "participants": [
-      "raphodn",
-      "raphodn"
-    ],
+    "participants": ["raphodn", "raphodn"],
     "repository": "open-prices"
   },
   {
@@ -1108,9 +1000,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "serpico"
-    ],
+    "participants": ["serpico"],
     "repository": "open-prices"
   },
   {
@@ -1126,9 +1016,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "raphodn"
-    ],
+    "participants": ["raphodn"],
     "repository": "open-prices"
   },
   {
@@ -1192,10 +1080,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "raphodn",
-      "raphodn"
-    ],
+    "participants": ["raphodn", "raphodn"],
     "repository": "open-prices"
   },
   {
@@ -1211,11 +1096,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "serpico",
-      "serpico",
-      "serpico"
-    ],
+    "participants": ["serpico", "serpico", "serpico"],
     "repository": "open-prices"
   },
   {
@@ -1247,9 +1128,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "raphodn"
-    ],
+    "participants": ["raphodn"],
     "repository": "open-prices"
   },
   {
@@ -1281,9 +1160,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "hangy"
-    ],
+    "participants": ["hangy"],
     "repository": "openfoodfacts-auth"
   },
   {
@@ -1347,11 +1224,7 @@
       "name": "Show and tell",
       "emoji": "🙌"
     },
-    "participants": [
-      "22404sonalmishra",
-      "VaiTon",
-      "22404sonalmishra"
-    ],
+    "participants": ["22404sonalmishra", "VaiTon", "22404sonalmishra"],
     "repository": "openfoodfacts-explorer"
   },
   {
@@ -1394,9 +1267,7 @@
       "name": "Announcements",
       "emoji": "📣"
     },
-    "participants": [
-      "teolemon"
-    ],
+    "participants": ["teolemon"],
     "repository": "openfoodfacts-explorer"
   },
   {
@@ -1412,9 +1283,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "Bhavishya2601"
-    ],
+    "participants": ["Bhavishya2601"],
     "repository": "openfoodfacts-explorer"
   },
   {
@@ -1446,9 +1315,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "VaiTon"
-    ],
+    "participants": ["VaiTon"],
     "repository": "openfoodfacts-explorer"
   },
   {
@@ -1480,9 +1347,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "VaiTon"
-    ],
+    "participants": ["VaiTon"],
     "repository": "openfoodfacts-explorer"
   },
   {
@@ -1498,10 +1363,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "alexgarel",
-      "stephanegigandet"
-    ],
+    "participants": ["alexgarel", "stephanegigandet"],
     "repository": "openfoodfacts-infrastructure"
   },
   {
@@ -1533,10 +1395,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "RickWong",
-      "JagjeevanAK"
-    ],
+    "participants": ["RickWong", "JagjeevanAK"],
     "repository": "search-a-licious"
   },
   {
@@ -1552,10 +1411,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "heymitali",
-      "heymitali"
-    ],
+    "participants": ["heymitali", "heymitali"],
     "repository": "openfoodfacts-webcomponents"
   },
   {
@@ -1612,11 +1468,7 @@
       "name": "Q&A",
       "emoji": "🙏"
     },
-    "participants": [
-      "teolemon",
-      "teolemon",
-      "sashabrava"
-    ],
+    "participants": ["teolemon", "teolemon", "sashabrava"],
     "repository": "openfoodfacts-androidapp"
   },
   {
@@ -1632,11 +1484,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "teolemon",
-      "teolemon",
-      "teolemon"
-    ],
+    "participants": ["teolemon", "teolemon", "teolemon"],
     "repository": "openfoodfacts-androidapp"
   },
   {
@@ -1652,10 +1500,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "kirtanchandak",
-      "VaiTon"
-    ],
+    "participants": ["kirtanchandak", "VaiTon"],
     "repository": "folksonomy_api"
   },
   {
@@ -1671,11 +1516,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "alexgarel",
-      "alexgarel",
-      "suchithh"
-    ],
+    "participants": ["alexgarel", "alexgarel", "suchithh"],
     "repository": "folksonomy_api"
   },
   {
@@ -1691,9 +1532,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "teolemon"
-    ],
+    "participants": ["teolemon"],
     "repository": "openfoodfacts-swift"
   },
   {
@@ -1773,10 +1612,7 @@
       "name": "Ideas",
       "emoji": "💡"
     },
-    "participants": [
-      "teolemon",
-      "synryn"
-    ],
+    "participants": ["teolemon", "synryn"],
     "repository": ".github"
   },
   {
@@ -1792,10 +1628,7 @@
       "name": "General",
       "emoji": "💬"
     },
-    "participants": [
-      "teolemon",
-      "M123-dev"
-    ],
+    "participants": ["teolemon", "M123-dev"],
     "repository": "smooth-app"
   }
 ]

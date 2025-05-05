@@ -1,5 +1,5 @@
 ---
-name: Manon Corneille 
+name: Manon Corneille
 title: Contributor
 github: manon-corneille
 twitter: ""

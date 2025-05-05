@@ -225,17 +225,13 @@
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6577",
       "title": "Robotoff questions in editing (part 2) for packaging",
       "stale_for": 1,
-      "labels": [
-        "🤖 Robotoff"
-      ]
+      "labels": ["🤖 Robotoff"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/127",
       "title": "We don't write the portion size in Robotoff extraction",
       "stale_for": 0,
-      "labels": [
-        "Nutrition editing"
-      ]
+      "labels": ["Nutrition editing"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11845",
@@ -282,10 +278,7 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/722",
       "title": "Update the Images for Numbers in the Press Page",
       "stale_for": 13,
-      "labels": [
-        "🗞️ Press",
-        "🗞️ Press - numbers-selected"
-      ]
+      "labels": ["🗞️ Press", "🗞️ Press - numbers-selected"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/36",
@@ -297,10 +290,7 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/35",
       "title": "Update Figma visuals with the Green-Score, and update the App Store and Google Play in all 30 languages",
       "stale_for": 12,
-      "labels": [
-        "App Store marketing",
-        "🌿 Green-Score"
-      ]
+      "labels": ["App Store marketing", "🌿 Green-Score"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/34",
@@ -318,28 +308,19 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/719",
       "title": "TODO in lang/en/texts/nutriscore/nutriscore-new-formula-presskit.html",
       "stale_for": 13,
-      "labels": [
-        "🚥 Nutri-Score",
-        "Nutri-Score v2"
-      ]
+      "labels": ["🚥 Nutri-Score", "Nutri-Score v2"]
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6560",
       "title": "Bulk upload proofs are not available for validation because the ready_for_price_tag_validation parameter is false by default",
       "stale_for": 2,
-      "labels": [
-        "Prices",
-        "Prices - Proofs"
-      ]
+      "labels": ["Prices", "Prices - Proofs"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/490",
       "title": "Implement structured packaging editing",
       "stale_for": 3,
-      "labels": [
-        "✏️ Editing",
-        "📦 Packaging"
-      ]
+      "labels": ["✏️ Editing", "📦 Packaging"]
     },
     {
       "link": "https://github.com/openfoodfacts/taxonomy-editor/issues/572",
@@ -363,10 +344,7 @@
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6556",
       "title": "Find and replace all OBSOLETE urls for facets",
       "stale_for": 0,
-      "labels": [
-        "good first issue",
-        "refactoring"
-      ]
+      "labels": ["good first issue", "refactoring"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/486",
@@ -396,9 +374,7 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-upptime/issues/7631",
       "title": "Find and replace all OBSOLETE urls for facets",
       "stale_for": 16,
-      "labels": [
-        "bug"
-      ]
+      "labels": ["bug"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1061",
@@ -422,18 +398,13 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11784",
       "title": "(P0) Add Matomo event for using Nutri-Sight",
       "stale_for": 16,
-      "labels": [
-        "matomo",
-        "Web components"
-      ]
+      "labels": ["matomo", "Web components"]
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6545",
       "title": "Tabs for the product page",
       "stale_for": 23,
-      "labels": [
-        "🥫 Product page"
-      ]
+      "labels": ["🥫 Product page"]
     }
   ],
   "authored_issue_and_pr": []

@@ -761,26 +761,19 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11685",
       "title": "Display currently served version of the taxonomies and website on pages",
       "stale_for": 35,
-      "labels": [
-        "👩‍💻 DevOps"
-      ]
+      "labels": ["👩‍💻 DevOps"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11572",
       "title": "Unrecognised ingredient (sv): “Rainforest Alliance-certifierad fettreducerat kakaopulver”",
       "stale_for": 43,
-      "labels": [
-        "labels",
-        "🥗 Ingredients"
-      ]
+      "labels": ["labels", "🥗 Ingredients"]
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10678",
       "title": "Allergen markup in ingredients lists breaks identification of compound words",
       "stale_for": 199,
-      "labels": [
-        "🥗🔍 Ingredients analysis"
-      ]
+      "labels": ["🥗🔍 Ingredients analysis"]
     }
   ],
   "authored_issue_and_pr": [

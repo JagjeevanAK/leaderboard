@@ -15,10 +15,7 @@
       "time": "2025-05-04T23:05:53.000Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6505",
       "text": "feat: add properties (Folksonomy Engine) button to navbar ",
-      "collaborated_with": [
-        "cherish2003",
-        "g123k"
-      ]
+      "collaborated_with": ["cherish2003", "g123k"]
     },
     {
       "type": "pr_opened",
