@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T08:35:25.000Z",
+  "last_updated": "2025-05-04T20:07:47.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/openfoodfacts-exports#33",
+      "time": "2025-05-04T20:07:47.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/33",
+      "text": "missing photographers data"
+    },
     {
       "type": "issue_opened",
       "title": "openfoodfacts/open-prices#830",
@@ -97,25 +104,19 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/830",
       "title": "Incorrect product name in jsonL dump",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/33",
-      "title": "missing photographers data",
-      "stale_for": 11,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/797",
       "title": "GDPR import doc improvement",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/446",
       "title": "Disappearing images",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🖼️ Image upload"
       ]
@@ -123,7 +124,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/302",
       "title": "Allow to rank/filter the products by # of photos",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🔎  Search",
         "✏️ Editing",
@@ -135,7 +136,7 @@
     {
       "link": "https://github.com/openfoodfacts/openbeautyfacts/issues/42",
       "title": "\"Ingredients\" Ingredient loop.",
-      "stale_for": 3366,
+      "stale_for": 3367,
       "labels": [
         "bug",
         "ingredients"
@@ -144,7 +145,7 @@
     {
       "link": "https://github.com/openfoodfacts/openbeautyfacts/issues/7",
       "title": "Fix the Data download page on Open Beauty Facts",
-      "stale_for": 360,
+      "stale_for": 361,
       "labels": [
         "OBF-ification"
       ]
@@ -152,7 +153,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/issues/30",
       "title": "Stuck in registration (iOS)",
-      "stale_for": 181,
+      "stale_for": 182,
       "labels": [
         "bug",
         "iOS",
@@ -162,7 +163,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/issues/29",
       "title": "Some pictures are rotated 90° (i.e first Nutella result), using the website they're not. (iOS)",
-      "stale_for": 181,
+      "stale_for": 182,
       "labels": [
         "bug",
         "iOS"
@@ -171,7 +172,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/182",
       "title": "Picture not uploaded through \"add a product\" when the page already exists",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🖼️ Image upload",
         "P3"
@@ -180,7 +181,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/179",
       "title": "Text formatting for allergens doesn't work properly",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🧬 Taxonomies",
         "🥜 Allergens",
@@ -190,7 +191,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/170",
       "title": "Prevention - Limit the number of new product pages without barcodes per IP",
-      "stale_for": 204,
+      "stale_for": 205,
       "labels": [
         "🧽 Data quality",
         "product addition",
@@ -201,7 +202,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/169",
       "title": "Searching by packager code doesn't work in the Advanced Search",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🔎  Search",
         "📍🏭 Packager codes",
@@ -211,7 +212,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/138",
       "title": "Create RSS feeds",
-      "stale_for": 123,
+      "stale_for": 124,
       "labels": [
         "API",
         "export",
@@ -221,7 +222,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/58",
       "title": "Warn visitors when the product page they're viewing is older than 18 months",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": [
         "Product Page",
         "🧽 Data quality",

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-11-09T22:25:22Z",
+  "last_updated": "2025-05-04T16:20:18.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices-frontend#1545",
+      "time": "2025-05-04T16:20:18.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1545",
+      "text": "feat(BarcodeScanner): use openfoodfacts webcomponents"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/open-prices-frontend#1544",
+      "time": "2025-05-04T11:49:49.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1544",
+      "text": "Products page: add support for categories not starting with \"en\""
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/open-prices#557",
